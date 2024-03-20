@@ -1,0 +1,3 @@
+Sitemap: https://paypandas.com/sitemap.xml
+User-agent:*
+Disallow:

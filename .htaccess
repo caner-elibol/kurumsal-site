@@ -1,0 +1,34 @@
+<IfModule mod_rewrite.c>
+   RewriteEngine On
+   ErrorDocument 403 /403.php
+   ErrorDocument 404 /404.php
+   ErrorDocument 500 /index.php
+   <Files "*.json">
+      Order Deny,Allow
+      Deny from all
+   </Files>
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteRule ^about$ about.php [L,QSA]
+   RewriteRule ^contact$ contact.php [L,QSA]
+   RewriteRule ^services$ services.php [L,QSA]
+   RewriteRule ^/$ index.php [L,QSA]
+   RewriteRule ^index$ index.php [L,QSA]
+   #RewriteRule ^islemler$ /include/posted.php [L,QSA]
+   RewriteRule ^blogs$ blogs.php [L,QSA]
+   RewriteRule ^blogs/(.*?)$ $1.php [L,QSA]
+   RewriteRule ^services/servicedetail/(.*?)$ servicedetail.php [L,QSA]
+   RewriteRule ^support/contact$ contact.php [L,QSA]
+   #RewriteRule ^support/odeme-kontrolu$ odeme-kontrolu.php [L,QSA]
+   RewriteRule ^support/faqs$ faqs.php [L,QSA]
+   RewriteRule ^support/privacy-policy$ privacy-policy.php [L,QSA]
+   RewriteRule ^appeal$ appeal.php [L,QSA]
+   RewriteRule ^support/terms-conditions$ terms-conditions.php [L,QSA]
+   #RewriteRule ^support/abonelik-iptal-etmek-istiyorum$ abonelik-iptal-etmek-istiyorum.php [L,QSA]
+   #RewriteRule ^support/abonelik-iptal-etmek-istiyorum/(.*?)$ abonelik-iptal-etmek-istiyorum.php?service=$1 [L,QSA]
+   RewriteRule ^joinus$ joinus.php [L,QSA]
+   #RewriteRule ^demo-odeme$ /vizyonadmin/netting/vizyonmobil-plugin/mobil-odeme.php [L,QSA]
+   #RewriteRule ^config$ /vizyonadmin/netting/vizyonmobil-plugin/config.php [L,QSA]
+
+
+</IfModule>
