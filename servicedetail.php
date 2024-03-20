@@ -3,15 +3,15 @@ include 'include/extensions.php';
 include 'database/Database.php';
 
 $titles = [];
-if ($host == "dcb") {
+if ($host == "payments") {
     $titles = [
-        "en" => "DCB",
-        "tr" => "Mobil Ödeme",
+        "en" => "Payments",
+        "tr" => "Ödemeler",
     ];
 } else if ($host == "transfer") {
     $titles = [
-        "en" => "Money Transfer",
-        "tr" => "Para Transferi",
+        "en" => "Send Money 7/24 for Free ",
+        "tr" => "7/24 Ücretsiz Para Gönder",
     ];
 } else if ($host == "pos") {
     $titles = [

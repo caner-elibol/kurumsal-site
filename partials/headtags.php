@@ -40,7 +40,7 @@ if (isset($_SESSION['language'])) {
 
     <!-- Document Title
     ============================================= -->
-    <title>PayPandas | <?= $titles[$language] ?></title>
+    <title>JunoMoney | <?= $titles[$language] ?></title>
 
 </head>
 

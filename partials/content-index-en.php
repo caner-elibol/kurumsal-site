@@ -4,12 +4,6 @@
 
     <div class="content-wrap pt-0">
 
-        <!-- Client Carousel
-            ============================================= -->
-        <?php include('clients.php') ?>
-
-        <!-- Features
-            ============================================= -->
         <div class="section bg-transparent mt-4 mb-0 pb-0">
             <div class="container">
                 <div class="heading-block border-bottom-0 center mx-auto mb-0" style="max-width: 550px">

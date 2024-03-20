@@ -2,8 +2,8 @@
     <div id="particles-line"></div>
 
     <div class="container clearfix mt-4">
-        <div class="badge rounded-pill border border-light text-light">GSM</div>
-        <h1>MOBİL ÖDEME</h1>
+        <div class="badge rounded-pill border border-light text-light">Junomoney</div>
+        <h1>Ödemeler</h1>
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="/">Anasayfa</a></li>
             <li class="breadcrumb-item active" aria-current="page">Hizmetlerimiz</li>
@@ -19,11 +19,11 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <div class="badge rounded-pill badge-default">Services</div>
-                    <h2 class="display-4 fw-bold">Direct Carrier Billing</h2>
-                    <p>PayPandas'ın Direct Carrier Billing (Doğrudan Taşıyıcı Faturalandırma) hizmeti, mobil cihazlarınızın faturalarına dijital içerik veya hizmetlerin maliyetini ekleyen bir ödeme yöntemidir. </p>
-                    <p>Bu hizmet, kullanıcıların oyunlar, uygulamalar, dijital içerikler ve abonelik hizmetleri gibi çevrimiçi ürünleri satın alırken cep telefonu faturalarını kullanmalarına olanak tanır. PayPandas, kullanıcılar için kolaylık ve güvenlik sunar, çünkü kredi kartı veya banka hesap bilgileri girmeleri gerekmez.</p>
-                    <p>Ayrıca, PayPandas'ın Direct Carrier Billing hizmeti, hızlı ve anında ödeme yapma avantajı sağlar, bu da müşteri memnuniyetini artırır.</p>
+                    <div class="badge rounded-pill badge-default">Hizmetler</div>
+                    <h2 class="display-4 fw-bold">Ödemeler</h2>
+                    <p>JunoMoney, ödeme hizmetleri sağlayıcısı olarak müşterilerine güvenilir ve kullanıcı dostu bir platform sunar. Ödemeler başlığı altında, müşterilerimizin günlük yaşamlarını kolaylaştırmak için anlaşmalı olduğumuz kurumların faturalarını ve ödeme işlemlerini sorunsuz bir şekilde gerçekleştiriyoruz.</p>
+                    <p>Anlaşmalı olduğumuz kurumların faturalarını tek bir platform üzerinden kolayca ödeyebilirler. Bu, faturaların takibini yapmak ve ödeme tarihlerini kaçırmamak için büyük bir kolaylık sağlar.</p>
+                    <p>Ayrıca, JunoMoney'nin ödeme hizmetleri sayesinde müşterilerimiz güvenli bir şekilde ödemelerini gerçekleştirebilirler. Platformumuz, güçlü güvenlik önlemleriyle donatılmıştır ve müşteri bilgilerini korumak için en son teknolojileri kullanır. Böylece, müşterilerimiz ödemelerini yaparken endişe etmeden güvenilir bir şekilde işlem gerçekleştirebilirler. </p>
                     <a href="/joinus" class="button button-rounded button-large nott ls0">Bize Katıl</a>
 
                 </div>

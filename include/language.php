@@ -1,18 +1,24 @@
 <?php
+$top_navigation_array = array(
+	'en' => array('Home Page', 'Privacy Policy', 'Fees & Limits', "About Us"),
+	'tr' => array('Ana Sayfa', 'KVKK', 'Ücretler & Limitler', 'Hakkımızda')
+);
 $navigation_array = array(
-	'en' => array('Home', 'What We Do', 'Services', "FAQ's", 'Contact', 'Join Us!'),
-	'tr' => array('Ana Sayfa', 'Hakkımızda', 'Hizmetlerimiz', 'S.S.S', 'İletişim', 'Bize Katılın!')
+	'en' => array('Money Transfer', 'Payments', 'Help', "FAQ's", 'Contact', 'Join Us!'),
+	'tr' => array('Para Transferi', 'Ödemeler', 'Yardım', 'S.S.S', 'İletişim', 'Bize Katılın!')
+);
+$bottom_navigation_array = array(
+	'en' => array('About', 'FAQs', 'Privacy Policy'),
+	'tr' => array('Hakkımızda', 'S.S.S', 'K.V.K.K')
 );
 $services_array = array(
 	'en' => array(
-		'Direct Carrier Billing' => array("It is a payment method by being transmitted over GSM operators."),
-		'Virtual Pos' => array("POS software based payment solution that enables the merchants to accept payments from their customers arising from purchases made over the Internet via credit or debit cards."),
-		'Money transfer' => array("Allows you to receive remittance payments with contracted banks"),
+		'Frequently Asking Questions' => array(""),
+		'Contact' => array(""),
 	),
 	'tr' => array(
-		'Mobil Ödeme' => array("GSM operatörleri aracılığı ile gerçekleştirilen bir ödeme yöntemidir. Kişisel GSM numarası ile ödemenin gerçekleştirilmesi sağlanır."),
-		'Sanal Pos' => array("İnternet üzerinde yapılan alışverişler için yaygın olarak kullanılan ödeme yöntemidir. Kredi veya Banka Kartları ile ödemenin gerçekleştirilmesi sağlanır."),
-		'Para Transferi' => array("EFT/Havale işlemleri aracılığı ile intenet alışverişlerinde kullanılan ödeme yöntemidir."),
+		'Sıkça Sorulan Sorular' => array(""),
+		'İletişim' => array("")
 	)
 );
 $pos_content = array(

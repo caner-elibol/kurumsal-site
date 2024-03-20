@@ -11,12 +11,15 @@
 
                     <div class="widget clearfix">
                         <div class="row">
-                            <div class="col-xs-12 col-md-4 col-4 bottommargin-sm">
+                            <div class="col-md-6 col-xs-12  bottommargin-sm">
                                 <img src="/images/footer-widget-logo.png" alt="Footer Logo" class="alignleft" style="margin-top: 8px; padding-right: 18px; border-right: 1px solid #DDD;">
+                                <img src="/images/icons/footer_logos.webp" alt="">
                             </div>
-                            <div class="col-xs-12 col-md-8 col-8 bottommargin-sm">
+                            <div class="col-md-6 col-xs-12  bottommargin-sm">
                                 <p><?= $footer_stext[$language] ?></p>
+
                             </div>
+
                         </div>
 
 
@@ -28,17 +31,13 @@
                         <div class="row">
                             <div class="col-md-4 col-6 bottommargin-sm widget_links">
                                 <ul>
-                                    <li><a href="/"><?= $navigation_array[$language][0] ?></a></li>
-                                    <li><a href="/about"><?= $navigation_array[$language][1] ?></a></li>
-                                    <li><a href="/support/faqs"><?= $navigation_array[$language][3] ?></a></li>
-                                    <li><a href="/services/servicedetail/dcb"><?= array_keys($services_array[$language])[0] ?></a></li>
-                                    <li><a href="/services/servicedetail/pos"><?= array_keys($services_array[$language])[1] ?></a></li>
-                                    <li><a href="/services/servicedetail/transfer"><?= array_keys($services_array[$language])[2] ?></a></li>
-                                    <li><a href="/support/contact"><?= $navigation_array[$language][4] ?></a></li>
+                                    <li><a href="/about"><?= $bottom_navigation_array[$language][0] ?></a></li>
+                                    <li><a href="/support/faqs"><?= $bottom_navigation_array[$language][1] ?></a></li>
+                                    <li><a href="/support/privacy-policy"><?= $bottom_navigation_array[$language][2] ?></a></li>
                                 </ul>
                             </div>
                             <div class="col-md-4">
-                                <img src="/images/icons/tcmblogo.jpg" alt="">
+
                             </div>
                         </div>
 

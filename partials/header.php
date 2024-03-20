@@ -12,11 +12,14 @@ include 'include/language.php';
                 <div class="top-links">
                     <ul class="top-links-container">
                         <li class="top-links-item"><a href="/">
-                                <?= ($language == "tr") ? getUpper($navigation_array[$language][0]) : $navigation_array[$language][0] ?>
+                                <?= ($language == "tr") ? getUpper($top_navigation_array[$language][0]) : $top_navigation_array[$language][0] ?>
                             </a></li>
-                        <li class="top-links-item"><a href="/support/faqs"><?= ($language == "tr") ? getUpper($navigation_array[$language][3]) : $navigation_array[$language][3] ?></a></li>
-                        <li class="top-links-item"><a href="/support/contact">
-                                <?= ($language == "tr") ? getUpper($navigation_array[$language][4]) : $navigation_array[$language][4] ?>
+                        <li class="top-links-item"><a href="/support/privacy-policy"><?= ($language == "tr") ? getUpper($top_navigation_array[$language][1]) : $top_navigation_array[$language][1] ?></a></li>
+                        <!-- <li class="top-links-item"><a href="/support/contact">
+                                <?= ($language == "tr") ? getUpper($top_navigation_array[$language][2]) : $top_navigation_array[$language][2] ?>
+                            </a></li> -->
+                        <li class="top-links-item"><a href="/about">
+                                <?= ($language == "tr") ? getUpper($top_navigation_array[$language][3]) : $top_navigation_array[$language][3] ?>
                             </a></li>
                         <li class="top-links-item"><a href=""><?= $language ?></a>
                             <ul class="top-links-sub-menu">
@@ -66,11 +69,11 @@ include 'include/language.php';
                             ============================================= -->
                     <!-- <div id="top-search" class="header-misc-icon">
                         <a href="#" id="top-search-trigger"><i class="icon-line-search"></i><i class="icon-line-cross"></i></a>
-                    </div> -->
+                    </div> 
 
                     <a href="/joinus" class="button button-rounded ms-3 d-none d-sm-block">
                         <?= ($language == "tr") ? getUpper($navigation_array[$language][5]) : $navigation_array[$language][5] ?>
-                    </a>
+                    </a>-->
 
                 </div>
 
@@ -89,17 +92,17 @@ include 'include/language.php';
                 <nav class="primary-menu with-arrows">
 
                     <ul class="menu-container">
-                        <li class="menu-item <?= ($host == "") ? "current" : "" ?>"><a class="menu-link" href="/">
+                        <li class="menu-item <?= ($host == "transfer") ? "current" : "" ?>"><a class="menu-link" href="/services/servicedetail/transfer">
                                 <div>
                                     <?= $navigation_array[$language][0] ?>
                                 </div>
                             </a></li>
-                        <li class="menu-item <?= ($host == "about") ? "current" : "" ?>"><a class="menu-link" href="/about">
+                        <li class="menu-item <?= ($host == "payments") ? "current" : "" ?>"><a class="menu-link" href="/services/servicedetail/payments">
                                 <div>
                                     <?= $navigation_array[$language][1] ?>
                                 </div>
                             </a></li>
-                        <li class="menu-item <?= ($host == "dcb" || $host == "transfer" || $host == "pos") ? "current" : "" ?> mega-menu">
+                        <li class="menu-item <?= ($host == "faqs" || $host == "contact") ? "current" : "" ?> mega-menu">
                             <div class="menu-link">
                                 <div>
                                     <?= $navigation_array[$language][2] ?>
@@ -108,9 +111,9 @@ include 'include/language.php';
                             <div class="mega-menu-content mega-menu-style-2 px-0">
                                 <div class="container">
                                     <div class="row">
-                                        <a href="/services/servicedetail/dcb" class="mega-menu-column sub-menu-container col-lg-4 border-bottom h-bg-light py-4">
-                                            <div class="feature-box">
-                                                <div class="fbox-icon mb-2">
+                                        <a href="/support/faqs" class="mega-menu-column sub-menu-container col-lg-6 border-bottom h-bg-light py-2">
+                                            <div class="feature-box text-center">
+                                                <div class="fbox-icon-v mb-2">
                                                     <img src="/demos/seo/images/icons/social.svg" alt="Dcb" class="bg-transparent rounded-0">
                                                 </div>
                                                 <div class="fbox-content">
@@ -121,9 +124,9 @@ include 'include/language.php';
                                                 </div>
                                             </div>
                                         </a>
-                                        <a href="/services/servicedetail/pos" class="mega-menu-column sub-menu-container col-lg-4 border-bottom h-bg-light py-4">
-                                            <div class="feature-box">
-                                                <div class="fbox-icon mb-2">
+                                        <a href="/support/contact" class="mega-menu-column sub-menu-container col-lg-6 border-bottom h-bg-light py-2">
+                                            <div class="feature-box text-center">
+                                                <div class="fbox-icon-v mb-2">
                                                     <img src="/demos/seo/images/icons/optimizing.svg" alt="Pos" class="bg-transparent rounded-0">
                                                 </div>
                                                 <div class="fbox-content">
@@ -134,29 +137,17 @@ include 'include/language.php';
                                                 </div>
                                             </div>
                                         </a>
-                                        <a href="/services/servicedetail/transfer" class="mega-menu-column sub-menu-container col-lg-4 border-bottom h-bg-light py-4">
-                                            <div class="feature-box">
-                                                <div class="fbox-icon mb-2">
-                                                    <img src="/demos/seo/images/icons/transfer.svg" alt="Transfer" class="bg-transparent rounded-0">
-                                                </div>
-                                                <div class="fbox-content">
-                                                    <h3 class="nott ls0">
-                                                        <?= array_keys($services_array[$language])[2] ?>
-                                                    </h3>
-                                                    <p><?= array_values($services_array[$language])[2][0] ?></p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                        <div class="mega-menu-column sub-menu-container col-12 p-0">
+
+                                        <!-- <div class="mega-menu-column sub-menu-container col-12 p-0">
                                             <a href="/joinus" class="button button-rounded button-large nott ls0 w-100 text-center m-0 rounded-0 py-3 button-light ">
                                                 <?= ($language == "tr") ? getUpper($navigation_array[$language][5]) : $navigation_array[$language][5] ?><i class="icon-line-arrow-right"></i>
                                             </a>
-                                        </div>
+                                        </div>  -->
                                     </div>
                                 </div>
                             </div>
                         </li>
-                        <li class="menu-item <?= ($host == "faqs") ? "current" : "" ?>"><a class="menu-link" href="/support/faqs">
+                        <!-- <li class="menu-item <?= ($host == "faqs") ? "current" : "" ?>"><a class="menu-link" href="/support/faqs">
                                 <div>
                                     <?= $navigation_array[$language][3] ?>
                                 </div>
@@ -165,7 +156,7 @@ include 'include/language.php';
                                 <div>
                                     <?= $navigation_array[$language][4] ?>
                                 </div>
-                            </a></li>
+                            </a></li> -->
                     </ul>
 
                 </nav><!-- #primary-menu end -->

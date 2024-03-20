@@ -4,10 +4,6 @@
 
     <div class="content-wrap pt-0">
 
-        <!-- Client Carousel
-            ============================================= -->
-        <?php include('clients.php') ?>
-
         <!-- Features
             ============================================= -->
         <div class="section bg-transparent mt-4 mb-0 pb-0">
