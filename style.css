@@ -138,6 +138,11 @@ li {
   padding: 0;
 }
 
+.slider-title {
+  background-color: rgba(255, 255, 255, 0.8); /* Transparan beyaz */
+  border-radius: 10px; /* Köşelerin hafifçe yuvarlanması */
+  padding: 20px; /* Opsiyonel: İçerikten kenara biraz boşluk bırakmak için */
+}
 .clear {
   clear: both;
   display: block;

@@ -1,8 +1,12 @@
 <!-- Slider
 		============================================= -->
 <section id="slider" class="slider-element slider-parallax min-vh-60 min-vh-md-100 include-header">
-    <div class="slider-inner" style="background: #FFF url('/demos/seo/images/hero/hero-1.jpg') center center no-repeat; background-size: cover;">
 
+    <div class="slider-inner" style="background: #FFF url('/images/city-zoom.webm') center center no-repeat; background-size: cover;">
+        <video autoplay muted loop="" poster="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2;">
+            <source src="/images/city-zoom.webm" type="video/webm">
+        </video>
+        <div class="video-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to bottom, rgba(0, 255, 255, 0)); z-index: -2"></div>
         <div class="vertical-middle slider-element-fade">
             <div class="container py-5">
                 <div class="row pt-5">
@@ -20,10 +24,6 @@
                 </div>
             </div>
 
-        </div>
-
-        <div class="video-wrap h-100 d-block d-lg-none">
-            <div class="video-overlay" style="background: rgba(255,255,255,0.85);"></div>
         </div>
 
     </div>

@@ -216,5 +216,24 @@
         }
     }
 </script>
+<script>
+    window.addEventListener("scroll", function() {
+        // Videoyu oynatmak istediğiniz scroll eşiği (örneğin, sayfanın %50'si)
+        var scrollThreshold = 0.8 * document.documentElement.clientHeight;
+
+        // Video elementini alın
+        var video = document.querySelector("#slider video");
+
+        // Video varsa ve kullanıcı scroll eşiğini aştıysa
+        if (video && window.scrollY > scrollThreshold) {
+            // Videoyu oynatın
+            video.play();
+
+            // Scroll olaylarını dinlemeyi bırakın, video zaten oynatılıyor
+            window.removeEventListener("scroll", arguments.callee);
+        }
+    });
+</script>
+
 
 </html>
