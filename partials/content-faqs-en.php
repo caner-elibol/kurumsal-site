@@ -52,27 +52,27 @@
                             '1' => [
                                 'type' => "faq faq-integration",
                                 'sign' => "play-sign",
-                                'question' => "How Can I Become a PayPandas's Merchant?",
+                                'question' => "How Can I Become a JunoMoney's Merchant?",
                                 'answer' => "You can start the process by clicking the \"Join Us\" button on our website, filling in the necessary information and uploading the requested documents."
                             ],
                             '2' => [
                                 'type' => "faq-integration",
                                 'sign' => "folder-settings",
                                 'question' => "How Can I Access Integration Documents?",
-                                'answer' => "You can access all documents at developer.paypandas.com, and if you want to get support regarding the integration process, you can contact us at support@paypandas.com."
+                                'answer' => "You can access all documents at developer.junomoney.com.tr, and if you want to get support regarding the integration process, you can contact us at support@junomoney.com.tr."
                             ],
                             '3' => [
                                 'type' => "faq-dcb",
                                 'sign' => "line2-wallet",
                                 'question' => "
                                 From Which Operators Can I Get Payments?",
-                                'answer' => "With PayPandas Solutions, you can receive payments from all operators in Turkey (Turkcell, Vodafone, Turk Telekom)."
+                                'answer' => "With JunoMoney Solutions, you can receive payments from all operators in Turkey (Turkcell, Vodafone, Turk Telekom)."
                             ],
                             '4' => [
                                 'type' => "faq-dcb faq-virtual-pos faq-money-transfer",
                                 'sign' => "calendar-alt",
                                 'question' => "When Will I Receive My Payments?",
-                                'answer' => "Your payments will be sent to your account in line with the terms specified in the 'Merchant Agreement' you have made with PayPandas."
+                                'answer' => "Your payments will be sent to your account in line with the terms specified in the 'Merchant Agreement' you have made with JunoMoney."
                             ],
                             '5' => [
                                 'type' => "faq-dcb faq-virtual-pos faq-money-transfer",
@@ -84,7 +84,7 @@
                                 'type' => "faq-dcb faq-virtual-pos faq-money-transfer",
                                 'sign' => "percentage",
                                 'question' => "What is the Commission Rate and Transaction Fee?",
-                                'answer' => "PayPandas offers its member merchants and solution partners competitive pricing and low commissions."
+                                'answer' => "JunoMoney offers its member merchants and solution partners competitive pricing and low commissions."
                             ],
                             '7' => [
                                 'type' => "faq-dcb faq-virtual-pos faq-money-transfer",
@@ -117,7 +117,7 @@
                                 'type' => "faq-dcb faq-virtual-pos faq-money-transfer",
                                 'sign' => "comments-alt",
                                 'question' => "How soon will I know the result of my appeal?",
-                                'answer' => "<p>When you complete all stages of your application, our PayPandas team will contact you within 24 hours via your e-mail address or contact information registered on the platform, and will begin to manage your process by providing information about your application.</p>
+                                'answer' => "<p>When you complete all stages of your application, our JunoMoney team will contact you within 24 hours via your e-mail address or contact information registered on the platform, and will begin to manage your process by providing information about your application.</p>
                                 <p>Note: Our working hours are between 09.00-17.00 on weekdays, applications made on Saturday and Sunday are answered between 09.00-15.00 on Monday morning.</p>
                                 "
                             ],
@@ -143,7 +143,7 @@
                                 'type' => "faq-integration",
                                 'sign' => "dashboard",
                                 'question' => "I need a more detailed document. What can I do?",
-                                'answer' => "If you need more detailed documentation for integrations, the PayPandas Integration Team will assist you. You can reach us by sending a message to <a href='mailto:destek@paypandas.com'>destek@paypandas.com</a>."
+                                'answer' => "If you need more detailed documentation for integrations, the JunoMoney Integration Team will assist you. You can reach us by sending a message to <a href='mailto:destek@junomoney.com.tr'>destek@junomoney.com.tr</a>."
                             ],
                         ];
                         foreach ($a as $s) {

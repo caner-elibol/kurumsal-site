@@ -157,8 +157,8 @@ class Mail
                                       <table width='100%' cellpadding='0' cellspacing='0' border='0'>
                                         <tr>
                                           <td style='padding-right: 0px;padding-left: 0px;' align='center'>
-                                            <a href='https://paypandas.com/' target='_blank'>
-                                              <img align='center' border='0' src='https://paypandas.com/images/mailimagesKayıt/image-11.png' alt='' title='' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 560px;' width='560' />
+                                            <a href='https://junomoney.com.tr/' target='_blank'>
+                                              <img align='center' border='0' src='https://junomoney.com.tr/images/mailimagesKayıt/image-11.png' alt='' title='' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 560px;' width='560' />
                                             </a>
                                           </td>
                                         </tr>
@@ -203,7 +203,7 @@ class Mail
                                         <tr>
                                           <td style='padding-right: 0px;padding-left: 0px;' align='center'>
         
-                                            <img align='center' border='0' src='https://paypandas.com/images/mailimagesKayıt/image-8.png' alt='' title='' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 20%;max-width: 116px;' width='116' />
+                                            <img align='center' border='0' src='https://junomoney.com.tr/images/mailimagesKayıt/image-8.png' alt='' title='' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 20%;max-width: 116px;' width='116' />
         
                                           </td>
                                         </tr>
@@ -374,7 +374,7 @@ class Mail
                                               <tr style='vertical-align: top'>
                                                 <td align='left' valign='middle' style='word-break: break-word;border-collapse: collapse !important;vertical-align: top'>
                                                   <a href='https://tr.linkedin.com/company/vizyonepara' title='LinkedIn' target='_blank'>
-                                                    <img src='https://paypandas.com/images/mailimagesKayıt/image-4.png' alt='LinkedIn' title='LinkedIn' width='32' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important'>
+                                                    <img src='https://junomoney.com.tr/images/mailimagesKayıt/image-4.png' alt='LinkedIn' title='LinkedIn' width='32' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important'>
                                                   </a>
                                                 </td>
                                               </tr>
@@ -388,7 +388,7 @@ class Mail
                                               <tr style='vertical-align: top'>
                                                 <td align='left' valign='middle' style='word-break: break-word;border-collapse: collapse !important;vertical-align: top'>
                                                   <a href='https://www.facebook.com/vizyonepara' title='Facebook' target='_blank'>
-                                                    <img src='https://paypandas.com/images/mailimagesKayıt/image-1.png' alt='Facebook' title='Facebook' width='32' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important'>
+                                                    <img src='https://junomoney.com.tr/images/mailimagesKayıt/image-1.png' alt='Facebook' title='Facebook' width='32' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important'>
                                                   </a>
                                                 </td>
                                               </tr>
@@ -402,7 +402,7 @@ class Mail
                                               <tr style='vertical-align: top'>
                                                 <td align='left' valign='middle' style='word-break: break-word;border-collapse: collapse !important;vertical-align: top'>
                                                   <a href='https://www.instagram.com/vizyonepara/' title='Instagram' target='_blank'>
-                                                    <img src='https://paypandas.com/images/mailimagesKayıt/image-2.png' alt='Instagram' title='Instagram' width='32' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important'>
+                                                    <img src='https://junomoney.com.tr/images/mailimagesKayıt/image-2.png' alt='Instagram' title='Instagram' width='32' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important'>
                                                   </a>
                                                 </td>
                                               </tr>
@@ -416,7 +416,7 @@ class Mail
                                               <tr style='vertical-align: top'>
                                                 <td align='left' valign='middle' style='word-break: break-word;border-collapse: collapse !important;vertical-align: top'>
                                                   <a href='https://twitter.com/vizyonepara' title='Twitter' target='_blank'>
-                                                    <img src='https://paypandas.com/images/mailimagesKayıt/image-3.png' alt='Twitter' title='Twitter' width='32' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important'>
+                                                    <img src='https://junomoney.com.tr/images/mailimagesKayıt/image-3.png' alt='Twitter' title='Twitter' width='32' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important'>
                                                   </a>
                                                 </td>
                                               </tr>
@@ -468,7 +468,7 @@ class Mail
                                         <tr>
                                           <td style='padding-right: 0px;padding-left: 0px;' align='center'>
                                             <a href='https://faturavizyon.com/' target='_blank'>
-                                              <img align='center' border='0' src='https://paypandas.com/images/mailimagesKayıt/image-9.png' alt='' title='' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 130px;' width='130' />
+                                              <img align='center' border='0' src='https://junomoney.com.tr/images/mailimagesKayıt/image-9.png' alt='' title='' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 130px;' width='130' />
                                             </a>
                                           </td>
                                         </tr>
@@ -500,8 +500,8 @@ class Mail
                                       <table width='100%' cellpadding='0' cellspacing='0' border='0'>
                                         <tr>
                                           <td style='padding-right: 0px;padding-left: 0px;' align='center'>
-                                            <a href='https://paypandas.com/' target='_blank'>
-                                              <img align='center' border='0' src='https://paypandas.com/images/mailimagesKayıt/image-7.png' alt='' title='' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 130px;' width='130' />
+                                            <a href='https://junomoney.com.tr/' target='_blank'>
+                                              <img align='center' border='0' src='https://junomoney.com.tr/images/mailimagesKayıt/image-7.png' alt='' title='' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 130px;' width='130' />
                                             </a>
                                           </td>
                                         </tr>
@@ -534,7 +534,7 @@ class Mail
                                         <tr>
                                           <td style='padding-right: 0px;padding-left: 0px;' align='center'>
                                             <a href='https://vizyonpos.com.tr/' target='_blank'>
-                                              <img align='center' border='0' src='https://paypandas.com/images/mailimagesKayıt/image-5.png' alt='' title='' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 130px;' width='130' />
+                                              <img align='center' border='0' src='https://junomoney.com.tr/images/mailimagesKayıt/image-5.png' alt='' title='' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 130px;' width='130' />
                                             </a>
                                           </td>
                                         </tr>
@@ -567,7 +567,7 @@ class Mail
                                         <tr>
                                           <td style='padding-right: 0px;padding-left: 0px;' align='center'>
         
-                                            <img align='center' border='0' src='https://paypandas.com/images/mailimagesKayıt/image-10.png' alt='' title='' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 130px;' width='130' />
+                                            <img align='center' border='0' src='https://junomoney.com.tr/images/mailimagesKayıt/image-10.png' alt='' title='' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 130px;' width='130' />
         
                                           </td>
                                         </tr>
@@ -612,7 +612,7 @@ class Mail
                                         <tr>
                                           <td style='padding-right: 0px;padding-left: 0px;' align='center'>
         
-                                            <img align='center' border='0' src='https://paypandas.com/images/mailimagesKayıt/image-6.png' alt='' title='' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 30%;max-width: 174px;' width='174' />
+                                            <img align='center' border='0' src='https://junomoney.com.tr/images/mailimagesKayıt/image-6.png' alt='' title='' style='outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 30%;max-width: 174px;' width='174' />
                                           </td>
                                         </tr>
                                       </table>
@@ -762,7 +762,7 @@ class Mail
             <table border='0' cellpadding='0' cellspacing='0' width='480'>
               <tr>
                 <td align='center' valign='top' style='padding: 20px 10px 20px 10px;'>
-                  <div border='0'><img src='https://paypandas.com/images/logo.png' alt='PaypandasLogo'></div>
+                  <div border='0'><img src='https://junomoney.com.tr/images/logo.png' alt='PaypandasLogo'></div>
                 </td>
               </tr>
             </table>
@@ -855,10 +855,10 @@ class Mail
 
 
       $mail->setFrom('info@vizyonmobil.com.tr', 'Yeni Uye İş Yeri Başvurusu'); //Your application NAME and EMAIL
-      $mail->Subject = 'PayPandas Yeni Uye İş Yeri Başvurusu'; //Message subject
+      $mail->Subject = 'JunoMoney Yeni Uye İş Yeri Başvurusu'; //Message subject
       $mail->MsgHTML($mesajicerik); // Message body
 
-      //$mail->addAddress('operasyon@paypandas.com', 'PayPandas Operasyon'); // Target email
+      //$mail->addAddress('operasyon@junomoney.com.tr', 'JunoMoney Operasyon'); // Target email
       $mail->addAddress('caner@rapidpara.com', 'Caner Elibol'); // Target email
       $mail->send();
       $mailstatus = "sent";

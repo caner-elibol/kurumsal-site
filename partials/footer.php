@@ -56,7 +56,7 @@
                                     </div>
                                     <div class="fbox-content">
                                         <span class="text-muted"><?= ($language == "tr") ? "Mail Adresi" : "Mail Address" ?></span><br>
-                                        <h3 class="nott ls0 fw-semibold"><a href="mailto:destek@paypandas.com">destek@paypandas.com</a></h3>
+                                        <h3 class="nott ls0 fw-semibold"><a href="mailto:destek@junomoney.com.tr">destek@junomoney.com.tr</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -95,19 +95,19 @@
 
                         <div class="row col-mb-30">
                             <div class="col-lg-6 col-md-12 col-6">
-                                <a href="https://facebook.com/paypandas" target="_blank" class="social-icon si-dark si-colored si-facebook mb-0" style="margin-right: 10px;">
+                                <a href="https://facebook.com/junomoney" target="_blank" class="social-icon si-dark si-colored si-facebook mb-0" style="margin-right: 10px;">
                                     <i class="icon-facebook"></i>
                                     <i class="icon-facebook"></i>
                                 </a>
-                                <a href="https://facebook.com/paypandas" target="_blank" class="text-dark"><small style="display: block; margin-top: 3px;"><strong><?= ($language == "tr") ? "Takip Et" : "Follow" ?></strong><br>
+                                <a href="https://facebook.com/junomoney" target="_blank" class="text-dark"><small style="display: block; margin-top: 3px;"><strong><?= ($language == "tr") ? "Takip Et" : "Follow" ?></strong><br>
                                         Facebook</small></a>
                             </div>
                             <div class="col-lg-6 col-md-12 col-6">
-                                <a href="https://linkedin.com/company/paypandasteknoloji" target="_blank" class="social-icon si-dark si-colored si-rss mb-0" style="margin-right: 10px;">
+                                <a href="https://linkedin.com/company/junomoneyteknoloji" target="_blank" class="social-icon si-dark si-colored si-rss mb-0" style="margin-right: 10px;">
                                     <i class="icon-linkedin"></i>
                                     <i class="icon-linkedin"></i>
                                 </a>
-                                <a href="https://linkedin.com/company/paypandasteknoloji" target="_blank" class="text-dark"><small style="display: block; margin-top: 3px;"><strong><?= ($language == "tr") ? "Görüntüle" : "View" ?></strong><br>
+                                <a href="https://linkedin.com/company/junomoneyteknoloji" target="_blank" class="text-dark"><small style="display: block; margin-top: 3px;"><strong><?= ($language == "tr") ? "Görüntüle" : "View" ?></strong><br>
                                         Profile</small></a>
                             </div>
                         </div>
@@ -126,7 +126,7 @@
 
             <div class="row justify-content-between col-mb-30">
                 <div class="col-12 col-lg-auto text-center text-lg-start">
-                    Copyrights &copy; 2022 All Rights Reserved by PayPandas<br>
+                    Copyrights &copy; 2024 All Rights Reserved by JunoMoney<br>
                     <div class="copyright-links"><a href="/support/terms-conditions">Terms of Use</a> / <a href="/support/privacy-policy">Privacy Policy</a></div>
                 </div>
 

@@ -21,9 +21,9 @@
                 <div class="col-lg-6">
                     <div class="badge rounded-pill badge-default">DCB</div>
                     <h2 class="display-4 fw-bold">Direct Carrier Billing</h2>
-                    <p>PayPandas' Direct Carrier Billing service is a payment method that adds the cost of digital content or services to your mobile device's bills.</p>
-                    <p>This service allows users to use their mobile phone bills when purchasing online products such as games, applications, digital content, and subscription services. PayPandas provides convenience and security for users, as they don't need to enter credit card or bank account information.</p>
-                    <p>Additionally, PayPandas' Direct Carrier Billing service offers the advantage of making fast and instant payments, increasing customer satisfaction.</p>
+                    <p>JunoMoney' Direct Carrier Billing service is a payment method that adds the cost of digital content or services to your mobile device's bills.</p>
+                    <p>This service allows users to use their mobile phone bills when purchasing online products such as games, applications, digital content, and subscription services. JunoMoney provides convenience and security for users, as they don't need to enter credit card or bank account information.</p>
+                    <p>Additionally, JunoMoney' Direct Carrier Billing service offers the advantage of making fast and instant payments, increasing customer satisfaction.</p>
                     <a href="/joinus" class="button button-rounded button-large nott ls0">Join Us</a>
                 </div>
                 <div class="col-lg-6 mt-4 mt-lg-0">

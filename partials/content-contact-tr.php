@@ -49,7 +49,7 @@
                         <div class="fbox-content">
                             <h3 class="nott ls0 mb-4">İletişime Geç:</h3>
                             <p class="text-smaller mb-3"> Her daim iletişim içinde olalım!</p>
-                            <a class="btn btn-link" href="mailto:destek@paypandas.com"><u>destek@paypandas.com</u></a>
+                            <a class="btn btn-link" href="mailto:destek@junomoney.com.tr"><u>destek@junomoney.com.tr</u></a>
                             <a class="btn btn-link" href="tel:+902162323536"><u>+902162323536</u></a>
                         </div>
                     </div>
@@ -72,7 +72,7 @@
 
         <div class="clear"></div>
         <section id="content">
-            <iframe src="https://www.google.com.tr/maps/embed?pb=!1m18!1m12!1m3!1d3009.711939080291!2d29.168503615647733!3d41.031557725940296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cacff0c8614683%3A0x65d7db9d3897ec63!2sPayPandas!5e0!3m2!1str!2str!4v1672010182067!5m2!1str!2str" width="600" height="250" style="border:0;" allowfullscreen="false" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com.tr/maps/embed?pb=!1m18!1m12!1m3!1d3009.711939080291!2d29.168503615647733!3d41.031557725940296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cacff0c8614683%3A0x65d7db9d3897ec63!2sJunoMoney!5e0!3m2!1str!2str!4v1672010182067!5m2!1str!2str" width="600" height="250" style="border:0;" allowfullscreen="false" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </section>
     </div>
 </section><!-- #content end -->

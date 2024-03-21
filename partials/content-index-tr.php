@@ -11,7 +11,7 @@
                 <div class="heading-block border-bottom-0 center mx-auto mb-0" style="max-width: 550px">
                     <div class="badge rounded-pill badge-default">Hizmetlerimiz</div>
                     <h3 class="nott ls0 mb-3"><span class="t-rotate">-</span>Biz Kimiz?</h3>
-                    <p>PayPandas, tüm ödeme çözümlerini tek bir ağ geçidinde sunan yeni nesil ödeme merkezidir. Tüm banka havalesi, kredi kartı, mobil ödeme ve mobil cüzdan seçeneklerini üye işyerlerine tek bir entegrasyonda sağlayabiliyoruz.</p>
+                    <p>JunoMoney, tüm ödeme çözümlerini tek bir ağ geçidinde sunan yeni nesil ödeme merkezidir. Tüm banka havalesi, kredi kartı, mobil ödeme ve mobil cüzdan seçeneklerini üye işyerlerine tek bir entegrasyonda sağlayabiliyoruz.</p>
                 </div>
                 <div class="row justify-content-between align-items-center">
 
@@ -22,8 +22,8 @@
                                 <a href="/features/featuredetail/dcb"><img src="/demos/seo/images/icons/social.svg" alt="Mobil Ödeme" class="bg-transparent rounded-0"></a>
                             </div>
                             <div class="fbox-content">
-                                <h3 class="nott ls0">Mobil Ödeme</h3>
-                                <p>GSM operatörleri aracılığı ile gerçekleştirilen bir ödeme yöntemidir. Kişisel GSM numarası ile ödemenin gerçekleştirilmesi sağlanır.</p>
+                                <h3 class="nott ls0">Cüzdan</h3>
+                                <p></p>
                             </div>
                         </div>
 
@@ -43,7 +43,7 @@
                             </div>
                             <div class="fbox-content">
                                 <h3 class="nott ls0">Para Transferi</h3>
-                                <p>EFT/Havale işlemleri aracılığı ile intenet alışverişlerinde kullanılan ödeme yöntemidir.</p>
+                                <p>Herkese para transferini kolaylıkla yapabilirsin. İntenet alışverişlerinde de kullanılan ödeme yöntemidir.</p>
                             </div>
                         </div>
 
@@ -320,7 +320,7 @@
         <!-- Promo/Contact
             ============================================= -->
         <?php
-        include('breadcumb-' . $language . '.php')
+        // include('breadcumb-' . $language . '.php')
         ?>
     </div>
 </section><!-- #content end -->

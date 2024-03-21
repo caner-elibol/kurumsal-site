@@ -8,7 +8,7 @@
                             <div class="badge rounded-pill badge-default">Join Us!</div>
                             <h3 class="nott ls0">Please Fill The Form To Become Our Merchant</h3>
                         </div>
-                        <p>Take the first step to join PayPandas and fill out our application form today to manage your financial transactions faster, safer, and more efficiently. Join us to reap the benefits of the digital payment world and further enhance your financial freedom. Apply now and become a part of the PayPandas family!</p>
+                        <p>Take the first step to join JunoMoney and fill out our application form today to manage your financial transactions faster, safer, and more efficiently. Join us to reap the benefits of the digital payment world and further enhance your financial freedom. Apply now and become a part of the JunoMoney family!</p>
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <div class="card shadow-sm">

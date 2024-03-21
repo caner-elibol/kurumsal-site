@@ -22,8 +22,8 @@
                     <div class="badge rounded-pill badge-default">Virtual Pos</div>
                     <h2 class="display-4 fw-bold">Virtual Pos</h2>
 
-                    <p>PayPandas' Virtual POS service is a payment method that assists businesses in accepting payments in their online stores or physical shops. This system enables customers to securely make payments using their credit card or bank card information. PayPandas' Virtual POS devices provide businesses with the ability to efficiently manage payment transactions. They can also offer additional features such as monitoring payment transactions, generating reports, and managing inventory.</p>
-                    <p>PayPandas' Virtual POS service offers customers various payment options, diversifying the shopping experience. Various payment methods, including credit cards, bank cards, mobile wallets, and other digital payment methods, can be accepted. This flexibility allows customers to make payments, further aiding businesses in increasing their sales.</p>
+                    <p>JunoMoney' Virtual POS service is a payment method that assists businesses in accepting payments in their online stores or physical shops. This system enables customers to securely make payments using their credit card or bank card information. JunoMoney' Virtual POS devices provide businesses with the ability to efficiently manage payment transactions. They can also offer additional features such as monitoring payment transactions, generating reports, and managing inventory.</p>
+                    <p>JunoMoney' Virtual POS service offers customers various payment options, diversifying the shopping experience. Various payment methods, including credit cards, bank cards, mobile wallets, and other digital payment methods, can be accepted. This flexibility allows customers to make payments, further aiding businesses in increasing their sales.</p>
                     <a href="/joinus" class="button button-rounded button-large nott ls0">Join Us</a>
                 </div>
                 <div class="col-lg-6 mt-4 mt-lg-0">

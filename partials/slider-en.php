@@ -8,9 +8,9 @@
         </video>
         <div class="video-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to bottom, rgba(0, 255, 255, 0)); z-index: -2"></div>
         <div class="vertical-middle slider-element-fade">
-            <div class="container py-5">
-                <div class="row pt-5">
-                    <div class="col-lg-5 col-md-8">
+            <div class="container py-6">
+                <div class="row pt-6">
+                    <div class="col-lg-6 col-md-8">
                         <div class="slider-title">
                             <div class="badge rounded-pill badge-default">Be A Part</div>
                             <h2>Get Payments With Our Services</h2>

@@ -12,9 +12,9 @@ if ($_SERVER['SERVER_NAME'] == 'junomoney.test') {
         die("Bağlantı sağlanamadı : " . $conn->connect_error);
 } else {
     $server = "localhost";
-    $id = "paypandas";
+    $id = "junomoney";
     $password = "EN^Fx^=FJf]B3@]m";
-    $db = "paypandas";
+    $db = "junomoney";
     //die("Burdan sonrasına geçit yok...");
 
     $conn = new mysqli($server, $id, $password, $db, 3306);

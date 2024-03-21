@@ -42,8 +42,8 @@
 
                 <div class="heading-block border-bottom-0 center mx-auto" style="max-width: 550px">
                     <div class="badge rounded-pill badge-default">Our Roadmap</div>
-                    <h3 class="nott ls0 mb-3">PayPandas</h3>
-                    <p>PayPandas is an innovative payment organization that provides digital payment solutions. In an era of rapidly advancing mobile payment technology, PayPandas enables users and businesses to conduct their financial transactions quickly, securely, and effortlessly. </p>
+                    <h3 class="nott ls0 mb-3">JunoMoney</h3>
+                    <p>JunoMoney is an innovative payment organization that provides digital payment solutions. In an era of rapidly advancing mobile payment technology, JunoMoney enables users and businesses to conduct their financial transactions quickly, securely, and effortlessly. </p>
                 </div>
 
                 <div class="text-md-center">
@@ -111,7 +111,7 @@
                         <div class="story-timeline-dots"></div>
                         <div class="col-md-5">
                             <h3 class="mb-3">Merchant Representative Agreement</h3>
-                            In September, as PayPandas, we signed a merchant representative agreement with Vizyon Elektronik Para A.Ş. This collaboration reflects our goal to provide customers and businesses with more payment convenience and diversity. This agreement with Vizyon Elektronik Para A.Ş. is a step in our journey to offer our financial services to a broader audience and to further advance in the world of digital payments.
+                            In September, as JunoMoney, we signed a merchant representative agreement with Vizyon Elektronik Para A.Ş. This collaboration reflects our goal to provide customers and businesses with more payment convenience and diversity. This agreement with Vizyon Elektronik Para A.Ş. is a step in our journey to offer our financial services to a broader audience and to further advance in the world of digital payments.
                         </div>
                     </div>
 

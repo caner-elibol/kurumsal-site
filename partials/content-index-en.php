@@ -9,7 +9,7 @@
                 <div class="heading-block border-bottom-0 center mx-auto mb-0" style="max-width: 550px">
                     <div class="badge rounded-pill badge-default">Our Services</div>
                     <h3 class="nott ls0 mb-3"><span class="t-rotate">-</span>What we do?</h3>
-                    <p>PayPandas is the next generation payment center that offers all payment solutions in a single gateway. We can provide all bank transfer, credit card, mobile payment and mobile wallet options to member merchants in a single integration.</p>
+                    <p>JunoMoney is the next generation payment center that offers all payment solutions in a single gateway. We can provide all bank transfer, credit card, mobile payment and mobile wallet options to member merchants in a single integration.</p>
                 </div>
                 <div class="row justify-content-between align-items-center">
 

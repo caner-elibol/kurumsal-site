@@ -37,13 +37,13 @@ include 'include/language.php';
                 <!-- Top Social
                         ============================================= -->
                 <ul id="top-social">
-                    <li><a href="https://facebook.com/paypandas" class="si-facebook" target="_blank"><span class="ts-icon"><i class="icon-facebook"></i></span><span class="ts-text">Facebook</span></a></li>
-                    <li><a href="https://twitter.com/paypandas" class="si-twitter" target="_blank"><span class="ts-icon"><i class="icon-twitter"></i></span><span class="ts-text">Twitter</span></a></li>
-                    <li><a href="https://instagram.com/paypandas" class="si-instagram" target="_blank"><span class="ts-icon"><i class="icon-instagram2"></i></span><span class="ts-text">Instagram</span></a></li>
-                    <li><a href="https://linkedin.com/company/paypandasteknoloji" class="si-linkedin" target="_blank"><span class="ts-icon"><i class="icon-linkedin"></i></span><span class="ts-text">LinkedIn</span></a></li>
-                    <li><a href="tel:+902162323536" class="si-call"><span class="ts-icon"><i class="icon-call"></i></span><span class="ts-text">+90(216) 232 35 36</span></a>
+                    <li><a href="#" class="si-facebook"><span class="ts-icon"><i class="icon-facebook"></i></span><span class="ts-text">Facebook</span></a></li>
+                    <li><a href="#" class="si-twitter"><span class="ts-icon"><i class="icon-twitter"></i></span><span class="ts-text">Twitter</span></a></li>
+                    <li><a href="#" class="si-instagram"><span class="ts-icon"><i class="icon-instagram2"></i></span><span class="ts-text">Instagram</span></a></li>
+                    <li><a href="#" class="si-linkedin"><span class="ts-icon"><i class="icon-linkedin"></i></span><span class="ts-text">LinkedIn</span></a></li>
+                    <li><a href="tel:" class="si-call"><span class="ts-icon"><i class="icon-call"></i></span><span class="ts-text">+90999999999</span></a>
                     </li>
-                    <li><a href="mailto:destek@paypandas.com" class="si-email3"><span class="ts-icon"><i class="icon-envelope-alt"></i></span><span class="ts-text">destek@paypandas.com</span></a></li>
+                    <li><a href="mailto:info@junomoney.com.tr" class="si-email3"><span class="ts-icon"><i class="icon-envelope-alt"></i></span><span class="ts-text">info@junomoney.com.tr</span></a></li>
                 </ul><!-- #top-social end -->
 
             </div>
@@ -59,8 +59,8 @@ include 'include/language.php';
                 <!-- Logo
                         ============================================= -->
                 <div id="logo">
-                    <a href="/" class="standard-logo" data-dark-logo="/images/logo-dark.png"><img src="/images/logo.png" alt="PayPandas Logo"></a>
-                    <a href="/" class="retina-logo" data-dark-logo="/images/logo-dark@2x.png"><img src="/images/logo@2x.png" alt="PayPandas Logo"></a>
+                    <a href="/" class="standard-logo" data-dark-logo="/images/logo-dark.png"><img src="/images/logo.png" alt="JunoMoney Logo"></a>
+                    <a href="/" class="retina-logo" data-dark-logo="/images/logo-dark@2x.png"><img src="/images/logo@2x.png" alt="JunoMoney Logo"></a>
                 </div><!-- #logo end -->
 
                 <div class="header-misc">

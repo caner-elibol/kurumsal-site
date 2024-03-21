@@ -8,7 +8,7 @@
                             <div class="badge rounded-pill badge-default">Başvuru</div>
                             <h3 class="nott ls0">Üye İşyerimiz Olmak İçin Lütfen Formu Doldurunuz </h3>
                         </div>
-                        <p>PayPandas'a katılmak için ilk adımı atın ve bugün finansal işlemlerinizi daha hızlı, daha güvenli ve daha verimli bir şekilde yönetmek için başvuru formumuzu doldurun. Bizimle birlikte dijital ödeme dünyasının avantajlarından yararlanın ve finansal özgürlüğünüzü daha da artırın. Hemen başvurun ve PayPandas ailesinin bir parçası olun!</p>
+                        <p>JunoMoney'a katılmak için ilk adımı atın ve bugün finansal işlemlerinizi daha hızlı, daha güvenli ve daha verimli bir şekilde yönetmek için başvuru formumuzu doldurun. Bizimle birlikte dijital ödeme dünyasının avantajlarından yararlanın ve finansal özgürlüğünüzü daha da artırın. Hemen başvurun ve JunoMoney ailesinin bir parçası olun!</p>
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <div class="card shadow-sm">

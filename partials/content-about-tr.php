@@ -42,8 +42,8 @@
 
                 <div class="heading-block border-bottom-0 center mx-auto" style="max-width: 550px">
                     <div class="badge rounded-pill badge-default">Yol Haritamız</div>
-                    <h3 class="nott ls0 mb-3">PayPandas</h3>
-                    <p>PayPandas, dijital ödeme çözümleri sunan yenilikçi bir ödeme kuruluşudur. Mobil ödeme teknolojisinin hızla geliştiği bir çağda, PayPandas, kullanıcıların ve işletmelerin finansal işlemlerini hızlı, güvenli ve kolay bir şekilde gerçekleştirmelerine olanak tanır. </p>
+                    <h3 class="nott ls0 mb-3">JunoMoney</h3>
+                    <p>JunoMoney, dijital ödeme çözümleri sunan yenilikçi bir ödeme kuruluşudur. Mobil ödeme teknolojisinin hızla geliştiği bir çağda, JunoMoney, kullanıcıların ve işletmelerin finansal işlemlerini hızlı, güvenli ve kolay bir şekilde gerçekleştirmelerine olanak tanır. </p>
                 </div>
 
                 <div class="text-md-center">
@@ -110,7 +110,7 @@
                         <div class="story-timeline-dots"></div>
                         <div class="col-md-5">
                             <h3 class="mb-3">Temsilcilik Sözleşmesi</h3>
-                            Eylül ayında, PayPandas olarak Vizyon Elektronik Para A.Ş. ile üye iş yeri temsilcilik sözleşmesi imzaladık. Bu işbirliği, müşterilere ve işletmelere daha fazla ödeme kolaylığı ve çeşitliliği sunma amacımızı yansıtıyor. Vizyon Elektronik Para A.Ş. ile olan bu sözleşme, finansal hizmetlerimizi daha geniş bir kitleye sunma ve dijital ödeme dünyasında daha da ilerleme sağlama yolculuğumuzun bir adımıdır.
+                            Eylül ayında, JunoMoney olarak Vizyon Elektronik Para A.Ş. ile üye iş yeri temsilcilik sözleşmesi imzaladık. Bu işbirliği, müşterilere ve işletmelere daha fazla ödeme kolaylığı ve çeşitliliği sunma amacımızı yansıtıyor. Vizyon Elektronik Para A.Ş. ile olan bu sözleşme, finansal hizmetlerimizi daha geniş bir kitleye sunma ve dijital ödeme dünyasında daha da ilerleme sağlama yolculuğumuzun bir adımıdır.
                         </div>
                     </div>
 

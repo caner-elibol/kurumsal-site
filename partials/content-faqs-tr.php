@@ -36,9 +36,9 @@
 
                     <div class="grid-filter-wrap justify-content-center">
                         <ul class="grid-filter style-4 customjs">
-                            <li class="activeFilter"><a href="#" class="fw-semibold" data-filter="all">Tümü</a></li>
-                            <li><a href="#" class="fw-semibold" data-filter=".faq-dcb">Mobil Ödeme</a></li>
-                            <li><a href="#" class="fw-semibold" data-filter=".faq-virtual-pos">Sanal Pos</a></li>
+                            <!-- <li class="activeFilter"><a href="#" class="fw-semibold" data-filter="all">Tümü</a></li> -->
+                            <!-- <li><a href="#" class="fw-semibold" data-filter=".faq-dcb">Mobil Ödeme</a></li> -->
+                            <li class="activeFilter"><a href="#" class="fw-semibold" data-filter=".faq-virtual-pos">Sanal Pos</a></li>
                             <li><a href="#" class="fw-semibold" data-filter=".faq-money-transfer">Para Transferi</a></li>
                             <li><a href="#" class="fw-semibold" data-filter=".faq-integration">Entegrasyon</a></li>
                         </ul>
@@ -59,19 +59,19 @@
                                 'type' => "faq-integration",
                                 'sign' => "folder-settings",
                                 'question' => "Entegrasyon Dokümanlarına Nasıl Ulaşabilirim?",
-                                'answer' => "developer.paypandas.com adresinden tüm dokümanlara ulaşabilir, entegrasyon süreci ile ilgili destek almak isterseniz destek@paypandas.com adresinden bizimle iletişime geçebilirsiniz."
+                                'answer' => "developer.junomoney.com.tr adresinden tüm dokümanlara ulaşabilir, entegrasyon süreci ile ilgili destek almak isterseniz destek@junomoney.com.tr adresinden bizimle iletişime geçebilirsiniz."
                             ],
                             '3' => [
                                 'type' => "faq-dcb",
                                 'sign' => "line2-wallet",
                                 'question' => "Hangi Operatörlerden Ödeme Alabilirim?",
-                                'answer' => "PayPandas Çözümleri ile Türkiye’deki tüm(Turkcell, Vodafone, Turk Telekom) operatörlerden ödeme alabilirsiniz."
+                                'answer' => "JunoMoney Çözümleri ile Türkiye’deki tüm(Turkcell, Vodafone, Turk Telekom) operatörlerden ödeme alabilirsiniz."
                             ],
                             '4' => [
                                 'type' => "faq-dcb faq-virtual-pos faq-money-transfer",
                                 'sign' => "calendar-alt",
                                 'question' => "Ödemelerimi Ne Zaman Alırım?",
-                                'answer' => "Ödemeleriniz, PayPandas ile yapmış olduğunuz ‘Üye İş Yeri Sözleşmesi’nde belirtilen vadeler doğrultusunda hesabınıza gönderilecektir."
+                                'answer' => "Ödemeleriniz, JunoMoney ile yapmış olduğunuz ‘Üye İş Yeri Sözleşmesi’nde belirtilen vadeler doğrultusunda hesabınıza gönderilecektir."
                             ],
                             '5' => [
                                 'type' => "faq-dcb faq-virtual-pos faq-money-transfer",
@@ -83,7 +83,7 @@
                                 'type' => "faq-dcb faq-virtual-pos faq-money-transfer",
                                 'sign' => "percentage",
                                 'question' => "Komisyon Oranı ve İşlem Ücreti Nedir?",
-                                'answer' => "PayPandas, üye işyerlerine ve çözüm ortaklarına rekabetçi fiyatlama ve düşük komisyonlarla hizmet sunmaktadır."
+                                'answer' => "JunoMoney, üye işyerlerine ve çözüm ortaklarına rekabetçi fiyatlama ve düşük komisyonlarla hizmet sunmaktadır."
                             ],
                             '7' => [
                                 'type' => "faq-dcb faq-virtual-pos faq-money-transfer",
@@ -114,7 +114,7 @@
                                 'type' => "faq-dcb faq-virtual-pos faq-money-transfer",
                                 'sign' => "comments-alt",
                                 'question' => "Başvuru sonucumu ne kadar süre içerisinde öğreneceğim?",
-                                'answer' => "<p>Başvurunuzun tüm aşamalarını eksiksiz olarak tamamladığınızda, PayPandas ekibimiz 24 saat içerisinde, platformda kayıtlı olan e-posta adresiniz veya iletişim bilgileriniz üzerinden sizinle iletişime geçecek ve başvurunuzla ilgili bilgi vererek sürecinizi yönetmeye başlayacaktır.</p>
+                                'answer' => "<p>Başvurunuzun tüm aşamalarını eksiksiz olarak tamamladığınızda, JunoMoney ekibimiz 24 saat içerisinde, platformda kayıtlı olan e-posta adresiniz veya iletişim bilgileriniz üzerinden sizinle iletişime geçecek ve başvurunuzla ilgili bilgi vererek sürecinizi yönetmeye başlayacaktır.</p>
                                 <p>Not: Mesai saatlerimiz hafta içi 09.00-17.00, cumartesi ve pazar günü yapılan başvurular, pazartesi sabahı 09.00-15.00 saatleri arasında cevaplanmaktadır.</p>
                                 "
                             ],
@@ -140,7 +140,7 @@
                                 'type' => "faq-integration",
                                 'sign' => "dashboard",
                                 'question' => "Daha detaylı bir dokümana ihtiyacım var. Ne yapabilirim?",
-                                'answer' => "Entegrasyonlar için daha ayrıntılı dokümana ihtiyacınız varsa, PayPandas Entegrasyon Ekibi size yardımcı olacaktır. <a href='mailto:destek@paypandas.com'>destek@paypandas.com</a> adresi üzerinden mesaj göndererek ulaşabilirsiniz."
+                                'answer' => "Entegrasyonlar için daha ayrıntılı dokümana ihtiyacınız varsa, JunoMoney Entegrasyon Ekibi size yardımcı olacaktır. <a href='mailto:destek@junomoney.com.tr'>destek@junomoney.com.tr</a> adresi üzerinden mesaj göndererek ulaşabilirsiniz."
                             ],
                         ];
                         foreach ($a as $s) {

@@ -23,7 +23,7 @@
                 <div class="heading-block border-bottom-0 center mx-auto mb-0" style="max-width: 550px">
                     <div class="badge rounded-pill badge-default">K.V.K.K.</div>
                     <h3 class="nott ls0 mb-3">Kişisel Verilerin Korunması Hakkında Aydınlatma Bildirimi</h3>
-                    <p>Paypandas Teknoloji A.Ş (“PayPandas”) ve İş Ortaklarımız kapsamında, KVK Kanunu’nun
+                    <p>Junomoney (“JunoMoney”) ve İş Ortaklarımız kapsamında, KVK Kanunu’nun
                         10’uncu maddesi uyarınca aydınlatma yükümlülüğümüzü yerine getirmek amacıyla, aşağıda kişisel
                         verilerinizin toplanma yöntemleri, işlenme amaçları, aktarılacağı kişiler ve aktarma amaçları ile veri
                         sahibi olarak haklarınız konusunda sizi bilgilendirmek istemekteyiz.</p>
@@ -94,7 +94,7 @@
                         yürütülmesi, satış ve pazarlama süreçlerinin yönetilmesi, kullanıcılara özel reklam, satış, pazarlama,
                         anket ve benzer amaçlı kampanyaların oluşturulması, çapraz satış yapılması, hedef kitle belirlenmesi,
                         Kullanıcı hareketlerinin takip edilerek kullanıcı deneyimini arttırıcı faaliyetlerin yürütülmesi,
-                        https://paypandas.com internet sitesi Kullanıcı paneli ile mobil uygulamanın işleyişinin
+                        https://junomoney.com.tr internet sitesi Kullanıcı paneli ile mobil uygulamanın işleyişinin
                         geliştirilmesi
                         ve Kullanıcı ihtiyaçlarına göre kişiselleştirilmesi, sunulan hizmetlere bağlılık oluşturulması ve/veya
                         arttırılması süreçlerinin yerine getirilmesi, doğrudan ve doğrudan olmayan pazarlama, kişiye özel
