@@ -4,7 +4,7 @@ $titles = [
     "en" => "FAQ's",
     "tr" => "S.S.S",
 ];
-include 'database/Database.php';
+//include 'database/Database.php';
 
 include 'partials/headtags.php';
 include 'partials/header.php';

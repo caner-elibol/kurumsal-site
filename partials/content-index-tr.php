@@ -23,7 +23,7 @@
                             </div>
                             <div class="fbox-content">
                                 <h3 class="nott ls0">Cüzdan</h3>
-                                <p></p>
+                                <p>İnternet üzerinde yapılan alışverişler için kullanılan ödeme yöntemlerden biridir. Cüzdandan Cüzdana, Cüzdandan Hesaba Para Transferi ile ödeme sağlanır.</p>
                             </div>
                         </div>
 

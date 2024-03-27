@@ -19,12 +19,13 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <div class="badge rounded-pill badge-default">DCB</div>
-                    <h2 class="display-4 fw-bold">Direct Carrier Billing</h2>
-                    <p>JunoMoney' Direct Carrier Billing service is a payment method that adds the cost of digital content or services to your mobile device's bills.</p>
-                    <p>This service allows users to use their mobile phone bills when purchasing online products such as games, applications, digital content, and subscription services. JunoMoney provides convenience and security for users, as they don't need to enter credit card or bank account information.</p>
-                    <p>Additionally, JunoMoney' Direct Carrier Billing service offers the advantage of making fast and instant payments, increasing customer satisfaction.</p>
-                    <a href="/joinus" class="button button-rounded button-large nott ls0">Join Us</a>
+                    <div class="badge rounded-pill badge-default">Wallet</div>
+                    <h2 class="display-4 fw-bold">Payments</h2>
+
+                    <p>JunoMoney provides its customers with a reliable and user-friendly platform as a payment services provider. Under the Payments section, we seamlessly facilitate the payment of bills and transactions for our customers to ease their daily lives through partnerships with various institutions.</p>
+                    <p>Customers can easily pay bills from the institutions we have agreements with through a single platform. This provides great convenience for tracking bills and avoiding missing payment deadlines.</p>
+                    <p>Furthermore, thanks to JunoMoney's payment services, our customers can securely make their payments. Our platform is equipped with strong security measures and utilizes the latest technologies to protect customer information. Thus, our customers can securely process transactions without worrying while making payments.</p>
+                    <!-- <a href="/joinus" class="button button-rounded button-large nott ls0">Join Us</a> -->
                 </div>
                 <div class="col-lg-6 mt-4 mt-lg-0">
                     <img src="/demos/seo/images/services/content_marketing.svg" alt="Image">

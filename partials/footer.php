@@ -69,7 +69,7 @@
                                     <div class="fbox-content">
 
                                         <span class="text-muted"><?= ($language == "tr") ? "Telefon Numarası" : "Phone Number" ?></span><br>
-                                        <h3 class="nott ls0 fw-semibold"><a href="tel:+902162323536">+90(216)232 35 36</a></h3>
+                                        <h3 class="nott ls0 fw-semibold"><a href="tel:+902167552063">+90(216)755 20 63</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -77,7 +77,7 @@
 
                     </div>
 
-                    <div class="widget subscribe-widget clearfix">
+                    <!-- <div class="widget subscribe-widget clearfix">
                         <h5><?= ($language == "tr") ? "Bize ulaşamıyorsanız mail adresinizi iletin. Biz ulaşalım!" : "If You can't reach us. Send your mail address!" ?></h5>
                         <div class="widget-subscribe-form-result">
 
@@ -89,9 +89,9 @@
                                 <button class="btn btn-success button button-color nott ls0 m-0" type="submit"><?= ($language == "tr") ? "Gönder" : "Send" ?></button>
                             </div>
                         </form>
-                    </div>
+                    </div> -->
 
-                    <div class="widget">
+                    <!-- <div class="widget">
 
                         <div class="row col-mb-30">
                             <div class="col-lg-6 col-md-12 col-6">
@@ -112,7 +112,7 @@
                             </div>
                         </div>
 
-                    </div>
+                    </div> -->
                 </div>
             </div>
 

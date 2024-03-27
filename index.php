@@ -5,7 +5,7 @@ $titles = [
     'en' => "Home Page",
     'tr' => "Anasayfa",
 ];
-include 'database/Database.php';
+//include 'database/Database.php';
 
 include 'partials/headtags.php';
 

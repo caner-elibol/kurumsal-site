@@ -37,11 +37,11 @@ include 'include/language.php';
                 <!-- Top Social
                         ============================================= -->
                 <ul id="top-social">
-                    <li><a href="#" class="si-facebook"><span class="ts-icon"><i class="icon-facebook"></i></span><span class="ts-text">Facebook</span></a></li>
+                    <!-- <li><a href="#" class="si-facebook"><span class="ts-icon"><i class="icon-facebook"></i></span><span class="ts-text">Facebook</span></a></li>
                     <li><a href="#" class="si-twitter"><span class="ts-icon"><i class="icon-twitter"></i></span><span class="ts-text">Twitter</span></a></li>
                     <li><a href="#" class="si-instagram"><span class="ts-icon"><i class="icon-instagram2"></i></span><span class="ts-text">Instagram</span></a></li>
-                    <li><a href="#" class="si-linkedin"><span class="ts-icon"><i class="icon-linkedin"></i></span><span class="ts-text">LinkedIn</span></a></li>
-                    <li><a href="tel:" class="si-call"><span class="ts-icon"><i class="icon-call"></i></span><span class="ts-text">+90999999999</span></a>
+                    <li><a href="#" class="si-linkedin"><span class="ts-icon"><i class="icon-linkedin"></i></span><span class="ts-text">LinkedIn</span></a></li> -->
+                    <li><a href="tel:+902167552063" class="si-call"><span class="ts-icon"><i class="icon-call"></i></span><span class="ts-text">+902167552063</span></a>
                     </li>
                     <li><a href="mailto:info@junomoney.com.tr" class="si-email3"><span class="ts-icon"><i class="icon-envelope-alt"></i></span><span class="ts-text">info@junomoney.com.tr</span></a></li>
                 </ul><!-- #top-social end -->

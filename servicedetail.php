@@ -1,6 +1,6 @@
 <?php
 include 'include/extensions.php';
-include 'database/Database.php';
+//include 'database/Database.php';
 
 $titles = [];
 if ($host == "payments") {

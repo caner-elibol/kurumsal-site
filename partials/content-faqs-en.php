@@ -36,10 +36,10 @@
 
                     <div class="grid-filter-wrap justify-content-center">
                         <ul class="grid-filter style-4 customjs">
-                            <li class="activeFilter"><a href="#" class="fw-semibold" data-filter="all">All</a></li>
-                            <li><a href="#" class="fw-semibold" data-filter=".faq-dcb">DCB</a></li>
+                            <!-- <li class="activeFilter"><a href="#" class="fw-semibold" data-filter="all">All</a></li>
+                            <li><a href="#" class="fw-semibold" data-filter=".faq-dcb">DCB</a></li> -->
                             <li><a href="#" class="fw-semibold" data-filter=".faq-virtual-pos">Virtual Pos</a></li>
-                            <li><a href="#" class="fw-semibold" data-filter=".faq-money-transfer">Money Transfer</a></li>
+                            <li class="activeFilter"><a href="#" class="fw-semibold" data-filter=".faq-money-transfer">Money Transfer</a></li>
                             <li><a href="#" class="fw-semibold" data-filter=".faq-integration">Integration</a></li>
                         </ul>
                     </div>

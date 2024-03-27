@@ -4,7 +4,7 @@ $titles = [
     "en" => "Appeal-Success",
     "tr" => "Başvuru-Tamamlandı",
 ];
-include 'database/Database.php';
+//include 'database/Database.php';
 
 include 'partials/headtags.php';
 include 'partials/header.php';

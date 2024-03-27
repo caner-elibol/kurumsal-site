@@ -4,7 +4,7 @@ $titles = [
     'en' => "About Us",
     'tr' => "Hakkımızda"
 ];
-include 'database/Database.php';
+//include 'database/Database.php';
 
 include 'partials/headtags.php';
 include 'partials/header.php';

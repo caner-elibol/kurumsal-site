@@ -1,5 +1,5 @@
 <?php
-include('../database/Database.php');
+//include('../database/Database.php');
 require 'Mail.php';
 ob_start();
 session_start();

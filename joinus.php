@@ -4,7 +4,7 @@ $titles = [
     "en" => "Join Us!",
     "tr" => "Bize Katılın!"
 ];
-include 'database/Database.php';
+//include 'database/Database.php';
 
 
 include 'partials/headtags.php';

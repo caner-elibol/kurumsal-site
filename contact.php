@@ -4,7 +4,7 @@ $titles = [
     "en" => "Contact",
     "tr" => "İletişim",
 ];
-include 'database/Database.php';
+//include 'database/Database.php';
 
 include 'partials/headtags.php';
 include 'partials/header.php';

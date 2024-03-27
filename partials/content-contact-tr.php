@@ -33,8 +33,7 @@
                                 Çalışma saatleri içerisinde bilgi dahilinde olan tüm ziyaretlere açığız.</p>
                             <address>
                                 <a href="https://goo.gl/maps/d8LXqquibq4Ex2xL9">
-                                    <u>Merkez Mh. Panorama Plaza Murat Sk. No:1A Kat:4 Daire:5<br>
-                                        34782, Çekmeköy/İstanbul</u>
+                                    <u>Barbaros,Begonya Sk. No:7 Ataşehir/İSTANBUL 34746</u>
                                 </a>
                             </address>
                         </div>
@@ -50,12 +49,12 @@
                             <h3 class="nott ls0 mb-4">İletişime Geç:</h3>
                             <p class="text-smaller mb-3"> Her daim iletişim içinde olalım!</p>
                             <a class="btn btn-link" href="mailto:destek@junomoney.com.tr"><u>destek@junomoney.com.tr</u></a>
-                            <a class="btn btn-link" href="tel:+902162323536"><u>+902162323536</u></a>
+                            <a class="btn btn-link" href="tel:+902167552063"><u>+902167552063</u></a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6">
+                <!-- <div class="col-lg-3 col-md-6">
                     <div class="feature-box flex-column text-center">
                         <div class="fbox-image text-center mb-3">
                             <img height="120" src="/demos/seo/images/icons/group.svg" alt="Feature Icon">
@@ -66,13 +65,13 @@
                             <a href="/joinus"><u>Başvuru için Tıkla</u></a>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
 
         <div class="clear"></div>
         <section id="content">
-            <iframe src="https://www.google.com.tr/maps/embed?pb=!1m18!1m12!1m3!1d3009.711939080291!2d29.168503615647733!3d41.031557725940296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cacff0c8614683%3A0x65d7db9d3897ec63!2sJunoMoney!5e0!3m2!1str!2str!4v1672010182067!5m2!1str!2str" width="600" height="250" style="border:0;" allowfullscreen="false" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3011.0991043349286!2d29.100612999999996!3d41.00120400000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac883a2dcd88f%3A0x5979495a1900707e!2sBarbaros%2C%20Begonya%20Sk.%20No%3A7%2C%2034746%20Ata%C5%9Fehir%2F%C4%B0stanbul!5e0!3m2!1str!2str!4v1711537623472!5m2!1str!2str" width="600" height="250" style="border:0;" allowfullscreen="false" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </section>
     </div>
 </section><!-- #content end -->

@@ -20,8 +20,8 @@
                                 <a href="/features/featuredetail/dcb"><img src="/demos/seo/images/icons/social.svg" alt="Mobil Ödeme" class="bg-transparent rounded-0"></a>
                             </div>
                             <div class="fbox-content">
-                                <h3 class="nott ls0">Direct Carrier Billing</h3>
-                                <p>It is a payment method by being transmitted over GSM operators.</p>
+                                <h3 class="nott ls0">Wallet</h3>
+                                <p>The payment method used for online shopping. Payments are made through Wallet to Wallet or Wallet to Account transfers.</p>
                             </div>
                         </div>
 
@@ -404,7 +404,7 @@
             </div>
 
         </div> -->
-        <div class="container clearfix py-5">
+        <!-- <div class="container clearfix py-5">
             <div class="row">
                 <div class="col-md-4 mt-5">
                     <div class="feature-box fbox-center border-0">
@@ -443,7 +443,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- <?php
                 // include('breadcumb-' . $language . '.php')
                 ?> -->
