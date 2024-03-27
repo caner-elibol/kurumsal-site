@@ -1,10 +1,9 @@
 <?php
 function getUpper($string)
 {
-    $newString = Transliterator::create("tr-Upper")
-        ->transliterate($string);
+    $Upperstring = strtoupper($string);
 
-    return $newString;
+    return $Upperstring;
 }
 
 $h = explode("/", $_SERVER['REQUEST_URI']);
