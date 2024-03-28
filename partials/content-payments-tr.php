@@ -24,7 +24,7 @@
                     <p>JunoMoney, ödeme hizmetleri sağlayıcısı olarak müşterilerine güvenilir ve kullanıcı dostu bir platform sunar. Ödemeler başlığı altında, müşterilerimizin günlük yaşamlarını kolaylaştırmak için anlaşmalı olduğumuz kurumların faturalarını ve ödeme işlemlerini sorunsuz bir şekilde gerçekleştiriyoruz.</p>
                     <p>Anlaşmalı olduğumuz kurumların faturalarını tek bir platform üzerinden kolayca ödeyebilirler. Bu, faturaların takibini yapmak ve ödeme tarihlerini kaçırmamak için büyük bir kolaylık sağlar.</p>
                     <p>Ayrıca, JunoMoney'nin ödeme hizmetleri sayesinde müşterilerimiz güvenli bir şekilde ödemelerini gerçekleştirebilirler. Platformumuz, güçlü güvenlik önlemleriyle donatılmıştır ve müşteri bilgilerini korumak için en son teknolojileri kullanır. Böylece, müşterilerimiz ödemelerini yaparken endişe etmeden güvenilir bir şekilde işlem gerçekleştirebilirler. </p>
-                    <a href="/joinus" class="button button-rounded button-large nott ls0">Bize Katıl</a>
+                    <!-- <a href="/joinus" class="button button-rounded button-large nott ls0">Bize Katıl</a> -->
 
                 </div>
                 <div class="col-lg-6 mt-4 mt-lg-0">

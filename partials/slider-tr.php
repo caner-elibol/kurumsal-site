@@ -17,7 +17,7 @@
                             <h3 class="text-rotater mb-2" data-separator="," data-rotate="fadeIn" data-speed="3500">
                                 - İşletmenizin Ödeme <span class="t-rotate">Yöntemlerini Çeşitlendirin,Yöntemlerine Yenisini Ekleyin, Yöntemlerini Tek Yerden Yönetin</span></h3>
                             <p>Tüm ödeme çözümlerini tek bir ağ geçidinde sunan yeni nesil ödeme merkezi sistemini benimseyen firmamız size tüm; banka havalesi, kredi kartı, mobil ödeme ve mobil cüzdan seçeneklerini tek bir entegrasyonda sağlamayı hedeflemektedir.</p>
-                            <a href="/joinus" class="button button-rounded button-large nott ls0">Başvuru Yap</a>
+                            <!-- <a href="/joinus" class="button button-rounded button-large nott ls0">Başvuru Yap</a> -->
                             <a href="/support/contact" class="button button-rounded button-large button-light text-dark bg-white border nott ls0">Destek için Ulaş</a>
                         </div>
                     </div>

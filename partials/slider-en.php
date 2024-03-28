@@ -17,7 +17,7 @@
                             <h3 class="text-rotater mb-2" data-separator="," data-rotate="fadeIn" data-speed="3500">
                                 -<span class="t-rotate">Diversify, Add New Methods To,Manage From One Hub</span> Your Business' Payment Methods</h3>
                             <p>Our company, which adopts a new generation payment center system that offers all payment solutions in a single network production, offers you all; It aims to provide bank transfer, credit card, mobile payment and mobile wallet view in a single integration.</p>
-                            <a href="/joinus" class="button button-rounded button-large nott ls0">Appeal to Get</a>
+                            <!-- <a href="/joinus" class="button button-rounded button-large nott ls0">Appeal to Get</a> -->
                             <a href="/support/contact" class="button button-rounded button-large button-light text-dark bg-white border nott ls0">Support</a>
                         </div>
                     </div>

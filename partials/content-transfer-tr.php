@@ -24,7 +24,7 @@
                     <p>JunoMoney'ın Para Transferi hizmeti, bir kişiden diğerine veya bir kuruluştan diğerine finansal değerlerin elektronik olarak taşınması işlemidir. Bu işlem, genellikle bankalar, ödeme hizmeti sağlayıcıları, dijital cüzdanlar ve diğer finansal araçlar aracılığıyla gerçekleştirilir. Para transferi, kişisel veya ticari amaçlarla yapılabilir ve genellikle hızlı ve güvenli bir şekilde gerçekleştirilir.</p>
                     <p>Günümüzde, para transferi işlemleri çeşitli dijital platformlar aracılığıyla gerçekleştirilir. Banka hesapları, mobil uygulamalar ve online ödeme hizmetleri, para transferlerini kolaylaştırır. Kullanıcılar genellikle alıcıya para göndermek için alıcının banka hesap numarasını veya e-posta adresini kullanırlar. </p>
                     <p>JunoMoney'ın Para Transferi hizmeti, güvenli ve hızlı bir şekilde para gönderme ve alma ihtiyacını karşılar ve kullanıcılara finansal işlemlerini daha verimli bir şekilde yönetme fırsatı sunar.</p>
-                    <a href="/joinus" class="button button-rounded button-large nott ls0">Bize Katıl</a>
+                    <!-- <a href="/joinus" class="button button-rounded button-large nott ls0">Bize Katıl</a> -->
                 </div>
                 <div class="col-lg-6 mt-4 mt-lg-0">
                     <img src="/demos/seo/images/services/content_marketing.svg" alt="Image">

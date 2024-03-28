@@ -4,43 +4,18 @@
     <div class="container">
         <!-- Footer Widgets
                 ============================================= -->
-        <div class="footer-widgets-wrap pb-5 clearfix">
+        <div class="footer-widgets-wrap pb-2 clearfix">
 
-            <div class="row col-mb-50">
+            <div class="row">
                 <div class="col-md-8">
 
                     <div class="widget clearfix">
                         <div class="row">
-                            <div class="col-md-6 col-xs-12  bottommargin-sm">
-                                <img src="/images/footer-widget-logo.png" alt="Footer Logo" class="alignleft" style="margin-top: 8px; padding-right: 18px; border-right: 1px solid #DDD;">
-                                <img src="/images/icons/footer_logos.webp" alt="">
-                            </div>
-                            <div class="col-md-6 col-xs-12  bottommargin-sm">
+                            <div class="col-md-12 col-xs-12 ">
                                 <p><?= $footer_stext[$language] ?></p>
-
                             </div>
-
                         </div>
-
-
-
-
-
                         <div class="line line-sm"></div>
-
-                        <div class="row">
-                            <div class="col-md-4 col-6 bottommargin-sm widget_links">
-                                <ul>
-                                    <li><a href="/about"><?= $bottom_navigation_array[$language][0] ?></a></li>
-                                    <li><a href="/support/faqs"><?= $bottom_navigation_array[$language][1] ?></a></li>
-                                    <li><a href="/support/privacy-policy"><?= $bottom_navigation_array[$language][2] ?></a></li>
-                                </ul>
-                            </div>
-                            <div class="col-md-4">
-
-                            </div>
-                        </div>
-
                     </div>
 
                 </div>
@@ -113,6 +88,44 @@
                         </div>
 
                     </div> -->
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-xs-12  ">
+                        <div class="col-md-12 col-xs-12  ">
+                            <img src="/images/footer-widget-logo.png" alt="Junomoney Logo" class="alignleft" style="margin-top: 8px; padding-right: 18px; border-right: 1px solid #DDD;">
+                        </div>
+                        <div class="col-md-12 col-xs-12  ">
+                            <p>Barbaros,Begonya Sk. No:7 Ataşehir/İSTANBUL 34746</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-xs-12  ">
+                        <div class="col-md-12 col-xs-12  ">
+                            <img src="/images/tcmb2.png" alt="Tcmb Logo" class="alignleft" style="margin-top: 8px; padding-right: 18px; border-right: 1px solid #DDD;">
+                        </div>
+                        <div class="col-md-12 col-xs-12  ">
+                            <p>Hacı Bayram Mah. İstiklal Cad. No:10 06050 Ulus Altındağ/ANKARA</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-xs-12">
+                        <div class="col-md-12 col-xs-12">
+                            <img src="/images/todeb2.png" alt="Todeb Logo" class="alignleft" style="margin-top: 8px; padding-right: 18px;">
+                        </div>
+                        <div class="col-md-12 col-xs-12  ">
+                            <p>Fatih Sultan Mehmet Mh. Balkan Cd. No: 62 JustWork Ofis Kampüsü Ümraniye/İstanbul</p>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="row">
+                    <div class="col-md-4 col-6 bottommargin-sm widget_links">
+                        <ul>
+                            <!-- <li><a href="/about"><?= $bottom_navigation_array[$language][0] ?></a></li> -->
+                            <li><a href="/support/faqs"><?= $bottom_navigation_array[$language][1] ?></a></li>
+                            <li><a href="/support/privacy-policy"><?= $bottom_navigation_array[$language][2] ?></a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
 

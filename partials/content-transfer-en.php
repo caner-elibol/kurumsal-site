@@ -25,7 +25,7 @@
                     <p>JunoMoney' Money Transfer service is the process of electronically moving financial values from one person or organization to another. This process is typically carried out through banks, payment service providers, digital wallets, and other financial instruments. Money transfer can be done for personal or business purposes and is usually conducted quickly and securely.</p>
                     <p>In today's world, money transfer transactions are conducted through various digital platforms. Bank accounts, mobile applications, and online payment services facilitate money transfers. Users often use the recipient's bank account number or email address to send money.</p>
                     <p>JunoMoney' Money Transfer service meets the need for secure and swift money transfers and provides users with the opportunity to manage their financial transactions more efficiently.</p>
-                    <a href="/joinus" class="button button-rounded button-large nott ls0">Join Us</a>
+                    <!-- <a href="/joinus" class="button button-rounded button-large nott ls0">Join Us</a> -->
                 </div>
                 <div class="col-lg-6 mt-4 mt-lg-0">
                     <img src="/demos/seo/images/services/content_marketing.svg" alt="Image">

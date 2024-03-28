@@ -18,9 +18,9 @@ include 'include/language.php';
                         <!-- <li class="top-links-item"><a href="/support/contact">
                                 <?= ($language == "tr") ? getUpper($top_navigation_array[$language][2]) : $top_navigation_array[$language][2] ?>
                             </a></li> -->
-                        <li class="top-links-item"><a href="/about">
+                        <!-- <li class="top-links-item"><a href="/about">
                                 <?= ($language == "tr") ? getUpper($top_navigation_array[$language][3]) : $top_navigation_array[$language][3] ?>
-                            </a></li>
+                            </a></li> -->
                         <li class="top-links-item"><a href=""><?= $language ?></a>
                             <ul class="top-links-sub-menu">
                                 <li class="top-links-item"><a href="/include/function.php?language=en"><img src="/demos/seo/images/flags/eng.png" alt="Lang">EN</a></li>

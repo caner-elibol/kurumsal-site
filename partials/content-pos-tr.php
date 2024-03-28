@@ -23,7 +23,7 @@
                     <h2 class="display-4 fw-bold">Sanal Pos</h2>
                     <p>JunoMoney'ın Sanal POS hizmeti, işletmelerin çevrimiçi mağazalarında veya fiziksel mağazalarında ödeme kabul etmelerine yardımcı olan bir ödeme yöntemidir. Bu sistem, müşterilerin kredi kartı veya banka kartı bilgilerini kullanarak ödemelerini güvenli bir şekilde gerçekleştirmelerine olanak tanır. JunoMoney'ın Sanal POS cihazları, işletmelere ödeme işlemlerini hızlı ve verimli bir şekilde yönetme yeteneği sunar. Aynı zamanda ödeme işlemlerini izleme, raporlama ve envanter yönetimi gibi ek özellikler sunabilir. </p>
                     <p>JunoMoney'ın Sanal POS hizmeti, müşterilere çeşitli ödeme seçenekleri sunar, bu da alışveriş deneyimini daha da çeşitlendirir. Kredi kartları, banka kartları, mobil cüzdanlar ve diğer dijital ödeme yöntemleri gibi birçok farklı ödeme aracı kabul edilebilir. Bu, müşterilere ödeme yapma konusunda esneklik sağlar ve işletmelerin daha fazla satış yapmalarına yardımcı olur.</p>
-                    <a href="/joinus" class="button button-rounded button-large nott ls0">Bize Katıl</a>
+                    <!-- <a href="/joinus" class="button button-rounded button-large nott ls0">Bize Katıl</a> -->
                 </div>
                 <div class="col-lg-6 mt-4 mt-lg-0">
                     <img src="/demos/seo/images/services/content_marketing.svg" alt="Image">

@@ -24,7 +24,7 @@
 
                     <p>JunoMoney' Virtual POS service is a payment method that assists businesses in accepting payments in their online stores or physical shops. This system enables customers to securely make payments using their credit card or bank card information. JunoMoney' Virtual POS devices provide businesses with the ability to efficiently manage payment transactions. They can also offer additional features such as monitoring payment transactions, generating reports, and managing inventory.</p>
                     <p>JunoMoney' Virtual POS service offers customers various payment options, diversifying the shopping experience. Various payment methods, including credit cards, bank cards, mobile wallets, and other digital payment methods, can be accepted. This flexibility allows customers to make payments, further aiding businesses in increasing their sales.</p>
-                    <a href="/joinus" class="button button-rounded button-large nott ls0">Join Us</a>
+                    <!-- <a href="/joinus" class="button button-rounded button-large nott ls0">Join Us</a> -->
                 </div>
                 <div class="col-lg-6 mt-4 mt-lg-0">
                     <img src="/demos/seo/images/services/content_marketing.svg" alt="Image">
