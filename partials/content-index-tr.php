@@ -11,7 +11,8 @@
                 <div class="heading-block border-bottom-0 center mx-auto mb-0" style="max-width: 550px">
                     <div class="badge rounded-pill badge-default">Hizmetlerimiz</div>
                     <h3 class="nott ls0 mb-3"><span class="t-rotate">-</span>Biz Kimiz?</h3>
-                    <p>JunoMoney, tüm ödeme çözümlerini tek bir ağ geçidinde sunan yeni nesil ödeme merkezidir. Tüm banka havalesi, kredi kartı, mobil ödeme ve mobil cüzdan seçeneklerini üye işyerlerine tek bir entegrasyonda sağlayabiliyoruz.</p>
+                    <p>
+                        JunoMoney, ödeme çözümlerinde yeni bir dönemi başlatıyor. İleri teknolojiyle donatılmış platformumuz, tüm banka havalesi, kredi kartı ve dijital cüzdan seçeneklerini tek bir entegrasyonda sunarak işletmelere ve tüketicilere kolaylık sağlıyor. Müşterilerimiz, çeşitli ödeme yöntemlerini kullanarak alışverişlerini güvenle tamamlayabilirken, işletmeler de karmaşık ödeme işlemlerini basitleştirip verimliliği artırabilirler.</p>
                 </div>
                 <div class="row justify-content-between align-items-center">
 
