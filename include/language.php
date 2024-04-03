@@ -38,7 +38,7 @@ $footer_menu = array(
 	'tr' => array('Destek', 'S.S.S', 'K.V.K.K', 'Üye İş Yeri Sözleşmesi', 'İletişim', 'Hızlı Menü', 'Hakkımızda', 'Hizmetlerimiz', 'Haberler ve Duyurular', 'İletişim', 'Adres', 'Mail Adresi', 'Telefon Numarası')
 );
 $footer_stext = array(
-	'en' => "<p>Junomoney Elektronik Para ve Ödeme Hizmetleri A.Ş. is an electronic money institution licensed under Law No. 6493 on <strong>Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme ve Elektronik Para Kuruluşları Kanunu.</strong>
+	'en' => "<p>Junomoney Electronic Money and Payment Services Inc. is an electronic money institution that has applied for a license under Law No. 6493, <strong>Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme ve Elektronik Para Kuruluşları Kanunu</strong>.
 </p>",
-	'tr' => "<p>Junomoney Elektronik Para ve Ödeme Hizmetleri A.Ş. 6493 sayılı <strong>Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme ve Elektronik Para Kuruluşları Kanunu</strong> kapsamında lisanslı bir elektronik para kuruluşudur.</p>"
+	'tr' => "<p>Junomoney Elektronik Para ve Ödeme Hizmetleri A.Ş. 6493 sayılı <strong>Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme ve Elektronik Para Kuruluşları Kanunu</strong> kapsamında lisans başvurusu yapmış bir elektronik para kuruluşudur.</p>"
 );
