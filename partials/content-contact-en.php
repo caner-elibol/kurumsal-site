@@ -49,7 +49,7 @@
                             <h3 class="nott ls0 mb-4">Contact Us:</h3>
                             <p class="text-smaller mb-3"> Always be in contact!</p>
                             <a class="btn btn-link" href="mailto:destek@junomoney.com.tr"><u>destek@junomoney.com.tr</u></a>
-                            <a class="btn btn-link" href="tel:+902167552063"><u>+902167552063</u></a>
+                            <a class="btn btn-link" href="tel:+902169870818"><u>+902169870818</u></a>
                         </div>
                     </div>
                 </div>

@@ -44,7 +44,7 @@
                                     <div class="fbox-content">
 
                                         <span class="text-muted"><?= ($language == "tr") ? "Telefon Numarası" : "Phone Number" ?></span><br>
-                                        <h3 class="nott ls0 fw-semibold"><a href="tel:+902167552063">+90(216)755 20 63</a></h3>
+                                        <h3 class="nott ls0 fw-semibold"><a href="tel:+902169870818">+90(216) 987 08 18</a></h3>
                                     </div>
                                 </div>
                             </div>
