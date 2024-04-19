@@ -44,7 +44,7 @@
                             </div>
                             <div class="fbox-content">
                                 <h3 class="nott ls0">Para Transferi</h3>
-                                <p>Herkese para transferini kolaylıkla yapabilirsin. İntenet alışverişlerinde de kullanılan ödeme yöntemidir.</p>
+                                <p>Para transferi, dijital ödeme sistemlerinde yaygın olarak kullanılan bir işlem yöntemidir. Bu işlem, bir kişinin dijital ödeme hesabından başka bir kişinin hesabına para göndermesini sağlar. İntenet alışverişlerinde de kullanılan ödeme yöntemidir.</p>
                             </div>
                         </div>
 

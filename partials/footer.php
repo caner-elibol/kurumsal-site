@@ -95,7 +95,7 @@
                             <img src="/images/footer-widget-logo.png" alt="Junomoney Logo" class="alignleft" style="margin-top: 8px; padding-right: 18px; border-right: 1px solid #DDD;">
                         </div>
                         <div class="col-md-12 col-xs-12  ">
-                            <p>Barbaros,Begonya Sk. No:7 Ataşehir/İSTANBUL 34746</p>
+                            <p>Barbaros Mh. Begonya Sk. No:7 Ataşehir/İSTANBUL 34746</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-xs-12  ">
@@ -139,8 +139,8 @@
 
             <div class="row justify-content-between col-mb-30">
                 <div class="col-12 col-lg-auto text-center text-lg-start">
-                    Copyrights &copy; 2024 All Rights Reserved by JunoMoney<br>
-                    <div class="copyright-links"><a href="/support/terms-conditions">Terms of Use</a> / <a href="/support/privacy-policy">Privacy Policy</a></div>
+                    <?= $footer_btext[$language] ?>
+                    <div class="copyright-links"><a href="/support/terms-conditions"><?= $footer_blink[$language][1] ?></a> / <a href="/support/privacy-policy"><?= $footer_blink[$language][0] ?></a></div>
                 </div>
 
                 <div class="col-12 col-lg-auto text-center text-lg-end">

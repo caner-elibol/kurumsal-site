@@ -42,3 +42,11 @@ $footer_stext = array(
 </p>",
 	'tr' => "<p>Junomoney Elektronik Para ve Ödeme Hizmetleri A.Ş. 6493 sayılı <strong>Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme ve Elektronik Para Kuruluşları Kanunu</strong> kapsamında lisans başvurusu yapmış bir elektronik para kuruluşudur.</p>"
 );
+$footer_btext = array(
+	'en' => "Copyrights &copy; 2024 All Rights Reserved by JunoMoney<br>.",
+	'tr' => "Junomoney &copy; 2024 Tüm Hakları saklıdır<br>."
+);
+$footer_blink = array(
+	'en' => array('Privacy Policy', 'Term Of Use'),
+	'tr' => array('K.V.K.K', 'Kullanım Sözleşmesi')
+);

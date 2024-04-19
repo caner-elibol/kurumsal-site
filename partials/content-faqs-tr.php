@@ -3,7 +3,7 @@
 
     <div class="container clearfix mt-4">
         <div class="badge rounded-pill border border-light text-light">S.S.S</div>
-        <h1>Sıklıkla Sorulan Sorular</h1>
+        <h1>Sıkça Sorulan Sorular</h1>
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="/">Ana Sayfa</a></li>
             <li class="breadcrumb-item active" aria-current="page">Destek</li>

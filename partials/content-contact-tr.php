@@ -33,7 +33,7 @@
                                 Çalışma saatleri içerisinde bilgi dahilinde olan tüm ziyaretlere açığız.</p>
                             <address>
                                 <a href="https://goo.gl/maps/d8LXqquibq4Ex2xL9">
-                                    <u>Barbaros,Begonya Sk. No:7 Ataşehir/İSTANBUL 34746</u>
+                                    <u>Barbaros Mh. Begonya Sk. No:7 Ataşehir/İSTANBUL 34746</u>
                                 </a>
                             </address>
                         </div>
