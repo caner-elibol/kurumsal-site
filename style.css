@@ -12478,6 +12478,29 @@ body:not(.device-touch) .social-icon i {
 /* Tabs - Large Navigation
 -----------------------------------------------------------------*/
 
+#pdfViewerContainer {
+  display: flex;
+  justify-content: center;
+}
+#pdfViewer {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Mobil cihazlar için özel stiller */
+@media (max-width: 768px) {
+  #pdfViewerContainer {
+    display: block;
+  }
+}
+
+#pageControls {
+  text-align: center;
+}
+#prevPageBtn,
+#nextPageBtn {
+  margin-top: 10px;
+}
 .tab-nav-lg {
   margin-bottom: 20px;
   list-style: none;

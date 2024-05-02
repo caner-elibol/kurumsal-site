@@ -14,7 +14,7 @@ include 'include/language.php';
                         <li class="top-links-item"><a href="/">
                                 <?= ($language == "tr") ? getUpper($top_navigation_array[$language][0]) : $top_navigation_array[$language][0] ?>
                             </a></li>
-                        <li class="top-links-item"><a href="/support/privacy-policy"><?= ($language == "tr") ? getUpper($top_navigation_array[$language][1]) : $top_navigation_array[$language][1] ?></a></li>
+                        <li class="top-links-item"><a href="/support/documents/kvkk-aydinlatma"><?= ($language == "tr") ? getUpper($top_navigation_array[$language][1]) : $top_navigation_array[$language][1] ?></a></li>
                         <!-- <li class="top-links-item"><a href="/support/contact">
                                 <?= ($language == "tr") ? getUpper($top_navigation_array[$language][2]) : $top_navigation_array[$language][2] ?>
                             </a></li> -->

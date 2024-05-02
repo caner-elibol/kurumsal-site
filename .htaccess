@@ -19,6 +19,7 @@
    RewriteRule ^blogs/(.*?)$ $1.php [L,QSA]
    RewriteRule ^services/servicedetail/(.*?)$ servicedetail.php [L,QSA]
    RewriteRule ^support/contact$ contact.php [L,QSA]
+   RewriteRule ^support/documents/(.*?)$ documents.php [L,QSA]
    #RewriteRule ^support/odeme-kontrolu$ odeme-kontrolu.php [L,QSA]
    RewriteRule ^support/faqs$ faqs.php [L,QSA]
    RewriteRule ^support/privacy-policy$ privacy-policy.php [L,QSA]

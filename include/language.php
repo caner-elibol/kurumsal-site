@@ -8,8 +8,8 @@ $navigation_array = array(
 	'tr' => array('Para Transferi', 'Ödemeler', 'Yardım', 'S.S.S', 'İletişim', 'Bize Katılın!')
 );
 $bottom_navigation_array = array(
-	'en' => array('About', 'FAQs', 'Privacy Policy'),
-	'tr' => array('Hakkımızda', 'S.S.S', 'K.V.K.K')
+	'en' => array('Personal Data Protection(TR)', 'Terms-Conditions (TR)', 'Personal Data Appeal Form(TR)', 'FAQs', ' Pricvacy Policy', 'Security', 'Personal Data Protection(TR) Law'),
+	'tr' => array('KVKK Aydınlatma Metni', 'Çerçeve Sözleşme', 'Kişisel Veri Formu', 'S.S.S', 'Gizlilik Politikası', 'Güvenlik Bildirgesi', 'K.V.K.K')
 );
 $services_array = array(
 	'en' => array(

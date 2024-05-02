@@ -119,14 +119,26 @@
 
 
                 <div class="row">
-                    <div class="col-md-4 col-6 bottommargin-sm widget_links">
-                        <ul>
-                            <!-- <li><a href="/about"><?= $bottom_navigation_array[$language][0] ?></a></li> -->
-                            <li><a href="/support/faqs"><?= $bottom_navigation_array[$language][1] ?></a></li>
-                            <li><a href="/support/privacy-policy"><?= $bottom_navigation_array[$language][2] ?></a></li>
-                        </ul>
+                    <div class="row col-md-8 col-12 bottommargin-sm widget_links">
+                        <h5 class="text-center">Kullanıcı Bilgilendirme</h5>
+                        <div class="col-md-6 col-6 bottommargin-sm widget_links">
+                            <ul>
+                                <li><a href="/support/documents/kvkk-aydinlatma"><?= $bottom_navigation_array[$language][0] ?></a></li>
+                                <li><a href="/support/documents/cerceve-sozlesme"><?= $bottom_navigation_array[$language][1] ?></a></li>
+                                <li><a href="/support/documents/kisisel-bilgi-basvuru"><?= $bottom_navigation_array[$language][2] ?></a></li>
+                                <li><a href="/support/faqs"><?= $bottom_navigation_array[$language][3] ?></a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-6 bottommargin-sm widget_links">
+                            <ul>
+                                <li><a href="/support/documents/gizlilik-politikasi"><?= $bottom_navigation_array[$language][4] ?></a></li>
+                                <li><a href="/support/documents/guvenlik-bildirgesi"><?= $bottom_navigation_array[$language][5] ?></a></li>
+                                <li><a href="/support/documents/kvkk-politika"><?= $bottom_navigation_array[$language][6] ?></a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
+
             </div>
 
         </div><!-- .footer-widgets-wrap end -->
@@ -140,7 +152,6 @@
             <div class="row justify-content-between col-mb-30">
                 <div class="col-12 col-lg-auto text-center text-lg-start">
                     <?= $footer_btext[$language] ?>
-                    <div class="copyright-links"><a href="/support/terms-conditions"><?= $footer_blink[$language][1] ?></a> / <a href="/support/privacy-policy"><?= $footer_blink[$language][0] ?></a></div>
                 </div>
 
                 <div class="col-12 col-lg-auto text-center text-lg-end">
