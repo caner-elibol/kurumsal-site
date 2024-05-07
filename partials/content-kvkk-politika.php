@@ -20,7 +20,7 @@
         <div class="section bg-transparent mt-4 mb-0 pb-0">
             <div class="container">
                 <!-- PDF görüntüleyici -->
-                <iframe src="/pdf/kvkk.politika.pdf" width="595px" height="842px" frameborder="0"></iframe>
+                <iframe src="/pdf/kvkk.politika1.pdf" width="595px" height="842px" frameborder="0"></iframe>
             </div>
         </div>
     </div>

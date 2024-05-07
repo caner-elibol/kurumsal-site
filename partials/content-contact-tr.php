@@ -30,7 +30,7 @@
                         <div class="fbox-content">
                             <h3 class="nott ls0 mb-4">Konum Bilgisi:</h3>
                             <p class="text-smaller mb-3">
-                                Çalışma saatleri içerisinde bilgi dahilinde olan tüm ziyaretlere açığız.</p>
+                                Çalışma saatleri içerisinde bilgi dahilinde olan tüm ziyaretlere açığız. 09:00 - 18:00</p>
                             <address>
                                 <a href="https://goo.gl/maps/d8LXqquibq4Ex2xL9">
                                     <u>Barbaros Mh. Begonya Sk. No:7 Ataşehir/İSTANBUL 34746</u>

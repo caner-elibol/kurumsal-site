@@ -30,7 +30,7 @@
                         <div class="fbox-content">
                             <h3 class="nott ls0 mb-4">Location:</h3>
                             <p class="text-smaller mb-3">
-                                We are open to informed visits during working hours.</p>
+                                We are open to informed visits during working hours. 09:00 - 18:00</p>
                             <address>
                                 <a href="https://maps.app.goo.gl/L9oudCzzcpLtScpL7">
                                     <u>Barbaros Mh. Begonya Sk. No:7 Ataşehir/İSTANBUL 34746</u>

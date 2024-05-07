@@ -111,7 +111,7 @@ include 'include/language.php';
                             <div class="mega-menu-content mega-menu-style-2 px-0">
                                 <div class="container">
                                     <div class="row">
-                                        <a href="/support/faqs" class="mega-menu-column sub-menu-container col-lg-6 border-bottom h-bg-light py-2">
+                                        <a href="/support/faqs" class="mega-menu-column sub-menu-container col-lg-4 border-bottom h-bg-light py-2">
                                             <div class="feature-box text-center">
                                                 <div class="fbox-icon-v mb-2">
                                                     <img src="/demos/seo/images/icons/social.svg" alt="Dcb" class="bg-transparent rounded-0">
@@ -124,7 +124,7 @@ include 'include/language.php';
                                                 </div>
                                             </div>
                                         </a>
-                                        <a href="/support/contact" class="mega-menu-column sub-menu-container col-lg-6 border-bottom h-bg-light py-2">
+                                        <a href="/support/contact" class="mega-menu-column sub-menu-container col-lg-4 border-bottom h-bg-light py-2">
                                             <div class="feature-box text-center">
                                                 <div class="fbox-icon-v mb-2">
                                                     <img src="/demos/seo/images/icons/optimizing.svg" alt="Pos" class="bg-transparent rounded-0">
@@ -134,6 +134,19 @@ include 'include/language.php';
                                                         <?= array_keys($services_array[$language])[1] ?>
                                                     </h3>
                                                     <p><?= array_values($services_array[$language])[1][0] ?></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a href="/support/information" class="mega-menu-column sub-menu-container col-lg-4 border-bottom h-bg-light py-2">
+                                            <div class="feature-box text-center">
+                                                <div class="fbox-icon-v mb-2">
+                                                    <img src="/demos/seo/images/icons/content_marketing.svg" alt="Pos" class="bg-transparent rounded-0">
+                                                </div>
+                                                <div class="fbox-content">
+                                                    <h3 class="nott ls0">
+                                                        <?= array_keys($services_array[$language])[2] ?>
+                                                    </h3>
+                                                    <p><?= array_values($services_array[$language])[2][0] ?></p>
                                                 </div>
                                             </div>
                                         </a>
