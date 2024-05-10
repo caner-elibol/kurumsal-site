@@ -43,9 +43,24 @@
                             <img height="120" src="/demos/seo/images/icons/content_marketing.svg" alt="Feature Icon">
                         </div>
                         <div class="fbox-content">
-                            <h3 class="nott ls0 mb-4">Pricvacy Policy</h3>
+                            <h3 class="nott ls0 mb-4">Privacy Policy</h3>
                             <address>
                                 <a href="/support/documents/gizlilik-politikasi">
+                                    <u>Detail</u>
+                                </a>
+                            </address>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4">
+                    <div class="feature-box flex-column text-center">
+                        <div class="fbox-image text-center mb-3">
+                            <img height="120" src="/demos/seo/images/icons/content_marketing.svg" alt="Feature Icon">
+                        </div>
+                        <div class="fbox-content">
+                            <h3 class="nott ls0 mb-4">Personal Data Protection Law Policy</h3>
+                            <address>
+                                <a href="/support/documents/kvkk-politika">
                                     <u>Detail</u>
                                 </a>
                             </address>

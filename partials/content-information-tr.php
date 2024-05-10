@@ -58,6 +58,21 @@
                             <img height="120" src="/demos/seo/images/icons/content_marketing.svg" alt="Feature Icon">
                         </div>
                         <div class="fbox-content">
+                            <h3 class="nott ls0 mb-4">K.V.K.K Politikası</h3>
+                            <address>
+                                <a href="/support/documents/kvkk-politika">
+                                    <u>Detay</u>
+                                </a>
+                            </address>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4">
+                    <div class="feature-box flex-column text-center">
+                        <div class="fbox-image text-center mb-3">
+                            <img height="120" src="/demos/seo/images/icons/content_marketing.svg" alt="Feature Icon">
+                        </div>
+                        <div class="fbox-content">
                             <h3 class="nott ls0 mb-4">Çerçeve Sözleşme</h3>
                             <address>
                                 <a href="/support/documents/cerceve-sozlesme">
