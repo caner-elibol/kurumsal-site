@@ -134,6 +134,7 @@
                                 <li><a href="/support/documents/gizlilik-politikasi"><?= $bottom_navigation_array[$language][4] ?></a></li>
                                 <li><a href="/support/documents/guvenlik-bildirgesi"><?= $bottom_navigation_array[$language][5] ?></a></li>
                                 <li><a href="/support/documents/kvkk-politika"><?= $bottom_navigation_array[$language][6] ?></a></li>
+                                <li><a href="#"><?= $bottom_navigation_array[$language][7] ?></a></li>
                             </ul>
                         </div>
                     </div>

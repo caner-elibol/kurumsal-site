@@ -113,6 +113,21 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4">
+                    <div class="feature-box flex-column text-center">
+                        <div class="fbox-image text-center mb-3">
+                            <img height="120" src="/demos/seo/images/icons/content_marketing.svg" alt="Feature Icon">
+                        </div>
+                        <div class="fbox-content">
+                            <h3 class="nott ls0 mb-4">Fees & Limits</h3>
+                            <address>
+                                <a href="#">
+                                    <u>Announced after the operating permit.</u>
+                                </a>
+                            </address>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4">
 
                 </div>
                 <div class="col-lg-3 col-md-4">

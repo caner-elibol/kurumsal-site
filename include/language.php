@@ -8,8 +8,8 @@ $navigation_array = array(
 	'tr' => array('Para Transferi', 'Ödemeler', 'Yardım', 'S.S.S', 'İletişim', 'Bize Katılın!')
 );
 $bottom_navigation_array = array(
-	'en' => array('Personal Data Protection(TR)', 'Terms-Conditions (TR)', 'Personal Data Appeal Form(TR)', 'FAQs', ' Pricvacy Policy', 'Security', 'Personal Data Protection(TR) Law'),
-	'tr' => array('KVKK Aydınlatma Metni', 'Çerçeve Sözleşme', 'Kişisel Veri Formu', 'S.S.S', 'Gizlilik Politikası', 'Güvenlik Bildirgesi', 'K.V.K.K')
+	'en' => array('Personal Data Protection(TR)', 'Terms-Conditions (TR)', 'Personal Data Appeal Form(TR)', 'FAQs', ' Pricvacy Policy', 'Security', 'Personal Data Protection(TR) Law','Fees&Limits(Announced after the operating permit.)'),
+	'tr' => array('KVKK Aydınlatma Metni', 'Çerçeve Sözleşme', 'Kişisel Veri Formu', 'S.S.S', 'Gizlilik Politikası', 'Güvenlik Bildirgesi', 'K.V.K.K','Ücretler&Limitler(Faaliyet İzni Sonrası Açıklanacaktır.)')
 );
 $services_array = array(
 	'en' => array(
