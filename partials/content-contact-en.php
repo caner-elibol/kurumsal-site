@@ -32,7 +32,7 @@
                             <p class="text-smaller mb-3">
                                 We are open to informed visits during working hours. 09:00 - 18:00</p>
                             <address>
-                                <a href="https://maps.app.goo.gl/L9oudCzzcpLtScpL7">
+                                <a href="https://maps.app.goo.gl/2Zsh4ZuDz9sXfbdz8">
                                     <u>Barbaros Mh. Begonya Sk. No:7 Ataşehir/İSTANBUL 34746</u>
                                 </a>
                             </address>
